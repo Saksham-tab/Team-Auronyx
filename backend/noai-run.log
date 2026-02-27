@@ -1,0 +1,56 @@
+2026-02-27 01:33:53 [[32minfo[39m]: ✅ Redis Connected
+2026-02-27 01:33:53 [[32minfo[39m]: ✅ MQTT Connected
+2026-02-27 01:33:56 [[32minfo[39m]: ✅ MongoDB Connected
+2026-02-27 01:33:56 [[32minfo[39m]: 🚀 Server running on port 5006 in development mode
+2026-02-27 01:33:56 [[32minfo[39m]: [Redis Stream] Consumer consumer:a763b2941235 started for group:reports on stream:sensors
+2026-02-27 01:33:56 [[32minfo[39m]: [Redis Stream] Consumer consumer:b5ae1dcca5b2 started for group:anomalies on stream:anomalies
+2026-02-27 01:33:56 [[32minfo[39m]: [Redis Stream] Consumer consumer:5ad832902f29 started for group:pump on stream:pump
+2026-02-27 01:33:56 [[32minfo[39m]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:34:16 [[32minfo[39m]: [MQTT] Message received on farm/qa_noai_003/anomaly
+2026-02-27 01:34:16 [[32minfo[39m]: [MQTT] Message received on farm/qa_noai_003/pump/status
+2026-02-27 01:34:23 [[32minfo[39m]: [Socket] User qa_noai_003 connected and joined room: user_qa_noai_003
+2026-02-27 01:34:25 [[32minfo[39m]: [MQTT] Message received on farm/qa_noai_003/sensors
+2026-02-27 01:34:25 [[32minfo[39m]: [MQTT] Message received on farm/qa_noai_003/anomaly
+2026-02-27 01:34:25 [[32minfo[39m]: [Pump Service] Sending control ON for user: qa_noai_003
+2026-02-27 01:34:25 [[32minfo[39m]: [MQTT] Message received on farm/qa_noai_003/pump/status
+2026-02-27 01:34:28 [[32minfo[39m]: [Report Service] Processing data for user: qa_noai_003
+2026-02-27 01:34:28 [[32minfo[39m]: [Anomaly Service] Anomaly detected for user: qa_noai_003
+2026-02-27 01:34:28 [[32minfo[39m]: [Pump Service] Status update for qa_noai_003: running
+2026-02-27 01:34:28 [[32minfo[39m]: [Pump Service] Status update for qa_noai_003: running
+2026-02-27 01:34:28 [[32minfo[39m]: [Pump Service] Status update for qa_noai_003: running
+2026-02-27 01:34:28 [[32minfo[39m]: [Anomaly Service] Image saved to C:\Users\ms\Desktop\SSH2026\backend\storage\anomalies\anomaly_qa_noai_003_1772136268583.jpg
+2026-02-27 01:34:29 [[32minfo[39m]: [Report Service] Report saved for qa_noai_003
+2026-02-27 01:34:30 [[32minfo[39m]: [Socket] Client disconnected
+2026-02-27 01:34:38 [[32minfo[39m]: [Anomaly Service] Anomaly detected for user: qa_noai_003
+2026-02-27 01:34:38 [[32minfo[39m]: [Anomaly Service] Image saved to C:\Users\ms\Desktop\SSH2026\backend\storage\anomalies\anomaly_qa_noai_003_1772136278685.jpg
+2026-02-27 01:39:00 [[32minfo[39m]: [MQTT] Message received on farm/qa_image_001/sensors
+2026-02-27 01:39:00 [[32minfo[39m]: [MQTT] Message received on farm/qa_image_001/anomaly
+2026-02-27 01:39:00 [[32minfo[39m]: [MQTT] Message received on farm/qa_image_001/pump/status
+2026-02-27 01:39:12 [[32minfo[39m]: [Pump Service] Status update for qa_image_001: running
+2026-02-27 01:39:12 [[32minfo[39m]: [Anomaly Service] Anomaly detected for user: qa_image_001
+2026-02-27 01:39:12 [[32minfo[39m]: [Report Service] Processing data for user: qa_image_001
+2026-02-27 01:39:12 [[32minfo[39m]: [Anomaly Service] Image saved to C:\Users\ms\Desktop\SSH2026\backend\storage\anomalies\anomaly_qa_image_001_1772136552728.jpg
+2026-02-27 01:39:12 [[32minfo[39m]: [Report Service] Report saved for qa_image_001
+2026-02-27 05:01:03 [[32minfo[39m]: 🔄 MQTT Reconnecting...
+2026-02-27 05:01:03 [[32minfo[39m]: ✅ MQTT Connected
+2026-02-27 05:02:35 [[32minfo[39m]: 🔄 MQTT Reconnecting...
+2026-02-27 05:02:35 [[32minfo[39m]: ✅ MQTT Connected
+2026-02-27 05:06:07 [[32minfo[39m]: 🔄 MQTT Reconnecting...
+2026-02-27 05:06:07 [[32minfo[39m]: ✅ MQTT Connected
+2026-02-27 05:09:45 [[31merror[39m]: ❌ MQTT Error: read ECONNRESET
+2026-02-27 05:09:46 [[32minfo[39m]: 🔄 MQTT Reconnecting...
+2026-02-27 05:09:46 [[32minfo[39m]: ✅ MQTT Connected
+2026-02-27 05:13:34 [[32minfo[39m]: 🔄 MQTT Reconnecting...
+2026-02-27 05:13:34 [[32minfo[39m]: ✅ MQTT Connected
+2026-02-27 05:21:07 [[31merror[39m]: ❌ MQTT Error: read ECONNRESET
+2026-02-27 05:21:08 [[32minfo[39m]: 🔄 MQTT Reconnecting...
+2026-02-27 05:21:08 [[32minfo[39m]: ✅ MQTT Connected
+2026-02-27 05:24:55 [[31merror[39m]: ❌ MQTT Error: read ECONNRESET
+2026-02-27 05:24:56 [[32minfo[39m]: 🔄 MQTT Reconnecting...
+2026-02-27 05:24:56 [[32minfo[39m]: ✅ MQTT Connected
+2026-02-27 05:28:43 [[32minfo[39m]: 🔄 MQTT Reconnecting...
+2026-02-27 05:28:43 [[32minfo[39m]: ✅ MQTT Connected
+2026-02-27 05:32:30 [[32minfo[39m]: 🔄 MQTT Reconnecting...
+2026-02-27 05:32:30 [[32minfo[39m]: ✅ MQTT Connected
+2026-02-27 05:36:18 [[32minfo[39m]: 🔄 MQTT Reconnecting...
+2026-02-27 05:36:18 [[32minfo[39m]: ✅ MQTT Connected

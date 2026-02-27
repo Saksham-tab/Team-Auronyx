@@ -1,0 +1,1524 @@
+2026-02-27 00:55:20 [info]: ✅ Redis Connected
+2026-02-27 00:55:20 [info]: ✅ MQTT Connected
+2026-02-27 00:55:22 [info]: ✅ MongoDB Connected
+2026-02-27 00:55:22 [info]: 🚀 Server running on port 5000 in development mode
+2026-02-27 00:55:22 [info]: [Redis Stream] Consumer consumer:1 started for group:reports on stream:sensors
+2026-02-27 00:55:22 [info]: [Redis Stream] Consumer consumer:1 started for group:anomalies on stream:anomalies
+2026-02-27 00:55:22 [info]: [Redis Stream] Consumer consumer:1 started for group:pump on stream:pump
+2026-02-27 00:55:22 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 00:57:37 [info]: ✅ Redis Connected
+2026-02-27 00:57:37 [info]: ✅ MQTT Connected
+2026-02-27 00:57:40 [info]: ✅ Redis Connected
+2026-02-27 00:57:40 [info]: ✅ MQTT Connected
+2026-02-27 00:57:45 [info]: ✅ MongoDB Connected
+2026-02-27 00:57:45 [info]: 🚀 Server running on port 5000 in development mode
+2026-02-27 00:57:45 [info]: [Redis Stream] Consumer consumer:1 started for group:reports on stream:sensors
+2026-02-27 00:57:45 [info]: [Redis Stream] Consumer consumer:1 started for group:anomalies on stream:anomalies
+2026-02-27 00:57:45 [info]: [Redis Stream] Consumer consumer:1 started for group:pump on stream:pump
+2026-02-27 00:57:45 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 00:58:53 [info]: ✅ Redis Connected
+2026-02-27 00:58:53 [info]: ✅ MQTT Connected
+2026-02-27 00:59:00 [info]: ✅ MongoDB Connected
+2026-02-27 00:59:00 [info]: 🚀 Server running on port 5000 in development mode
+2026-02-27 00:59:00 [info]: [Redis Stream] Consumer consumer:1 started for group:reports on stream:sensors
+2026-02-27 00:59:00 [info]: [Redis Stream] Consumer consumer:1 started for group:anomalies on stream:anomalies
+2026-02-27 00:59:00 [info]: [Redis Stream] Consumer consumer:1 started for group:pump on stream:pump
+2026-02-27 00:59:00 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 00:59:11 [info]: ✅ Redis Connected
+2026-02-27 00:59:11 [info]: ✅ MQTT Connected
+2026-02-27 00:59:13 [info]: ✅ MongoDB Connected
+2026-02-27 00:59:13 [info]: 🚀 Server running on port 5000 in development mode
+2026-02-27 00:59:13 [info]: [Redis Stream] Consumer consumer:1 started for group:reports on stream:sensors
+2026-02-27 00:59:13 [info]: [Redis Stream] Consumer consumer:1 started for group:anomalies on stream:anomalies
+2026-02-27 00:59:13 [info]: [Redis Stream] Consumer consumer:1 started for group:pump on stream:pump
+2026-02-27 00:59:13 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 00:59:21 [info]: ✅ Redis Connected
+2026-02-27 00:59:21 [info]: ✅ MQTT Connected
+2026-02-27 00:59:23 [info]: ✅ MongoDB Connected
+2026-02-27 00:59:23 [info]: 🚀 Server running on port 5000 in development mode
+2026-02-27 00:59:23 [info]: [Redis Stream] Consumer consumer:435a3d9bfc61 started for group:reports on stream:sensors
+2026-02-27 00:59:23 [info]: [Redis Stream] Consumer consumer:1 started for group:anomalies on stream:anomalies
+2026-02-27 00:59:23 [info]: [Redis Stream] Consumer consumer:1 started for group:pump on stream:pump
+2026-02-27 00:59:23 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 00:59:31 [info]: ✅ Redis Connected
+2026-02-27 00:59:31 [info]: ✅ MQTT Connected
+2026-02-27 00:59:34 [info]: ✅ MongoDB Connected
+2026-02-27 00:59:35 [info]: 🚀 Server running on port 5000 in development mode
+2026-02-27 00:59:35 [info]: [Redis Stream] Consumer consumer:758e662507b7 started for group:reports on stream:sensors
+2026-02-27 00:59:35 [info]: [Redis Stream] Consumer consumer:c63e98dca3e7 started for group:anomalies on stream:anomalies
+2026-02-27 00:59:35 [info]: [Redis Stream] Consumer consumer:1 started for group:pump on stream:pump
+2026-02-27 00:59:35 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 00:59:43 [info]: ✅ Redis Connected
+2026-02-27 00:59:43 [info]: ✅ MQTT Connected
+2026-02-27 00:59:46 [info]: ✅ MongoDB Connected
+2026-02-27 00:59:46 [info]: 🚀 Server running on port 5000 in development mode
+2026-02-27 00:59:46 [info]: [Redis Stream] Consumer consumer:a32edc0436ff started for group:reports on stream:sensors
+2026-02-27 00:59:46 [info]: [Redis Stream] Consumer consumer:99ee7584289d started for group:anomalies on stream:anomalies
+2026-02-27 00:59:46 [info]: [Redis Stream] Consumer consumer:5257cad127fd started for group:pump on stream:pump
+2026-02-27 00:59:46 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 00:59:51 [info]: ✅ Redis Connected
+2026-02-27 00:59:51 [info]: ✅ MQTT Connected
+2026-02-27 00:59:57 [info]: ✅ MongoDB Connected
+2026-02-27 00:59:57 [info]: 🚀 Server running on port 5000 in development mode
+2026-02-27 00:59:57 [info]: [Redis Stream] Consumer consumer:1d1abebf270e started for group:reports on stream:sensors
+2026-02-27 00:59:57 [info]: [Redis Stream] Consumer consumer:893cd06f5f9f started for group:anomalies on stream:anomalies
+2026-02-27 00:59:57 [info]: [Redis Stream] Consumer consumer:0c4f3f30dd34 started for group:pump on stream:pump
+2026-02-27 00:59:57 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:00:00 [info]: ✅ Redis Connected
+2026-02-27 01:00:00 [info]: ✅ MQTT Connected
+2026-02-27 01:00:02 [info]: ✅ MongoDB Connected
+2026-02-27 01:00:02 [info]: 🚀 Server running on port 5000 in development mode
+2026-02-27 01:00:02 [info]: [Redis Stream] Consumer consumer:f9032e428181 started for group:reports on stream:sensors
+2026-02-27 01:00:02 [info]: [Redis Stream] Consumer consumer:3bcde59ddcd7 started for group:anomalies on stream:anomalies
+2026-02-27 01:00:02 [info]: [Redis Stream] Consumer consumer:8e7622997a15 started for group:pump on stream:pump
+2026-02-27 01:00:02 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:02:02 [info]: ✅ Redis Connected
+2026-02-27 01:02:02 [info]: ✅ MQTT Connected
+2026-02-27 01:02:05 [info]: ✅ MongoDB Connected
+2026-02-27 01:02:05 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:02:05 [info]: [Redis Stream] Consumer consumer:7ad503fe00a started for group:reports on stream:sensors
+2026-02-27 01:02:05 [info]: [Redis Stream] Consumer consumer:613ed011ef22 started for group:anomalies on stream:anomalies
+2026-02-27 01:02:05 [info]: [Redis Stream] Consumer consumer:31e304541fb6 started for group:pump on stream:pump
+2026-02-27 01:02:05 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:02:13 [info]: ✅ Redis Connected
+2026-02-27 01:02:13 [info]: ✅ MQTT Connected
+2026-02-27 01:02:20 [info]: ✅ Redis Connected
+2026-02-27 01:02:20 [info]: ✅ MQTT Connected
+2026-02-27 01:02:26 [info]: ✅ MongoDB Connected
+2026-02-27 01:02:26 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:02:26 [info]: [Redis Stream] Consumer consumer:d06ee962db5b started for group:reports on stream:sensors
+2026-02-27 01:02:26 [info]: [Redis Stream] Consumer consumer:b49eb1f9a773 started for group:anomalies on stream:anomalies
+2026-02-27 01:02:26 [info]: [Redis Stream] Consumer consumer:8df9bbd216a3 started for group:pump on stream:pump
+2026-02-27 01:02:26 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:04:52 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:05:10 [info]: [Socket] Client disconnected
+2026-02-27 01:05:25 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:06:25 [info]: [Socket] Client disconnected
+2026-02-27 01:06:51 [info]: ✅ Redis Connected
+2026-02-27 01:06:51 [info]: ✅ MQTT Connected
+2026-02-27 01:07:08 [info]: ✅ MongoDB Connected
+2026-02-27 01:07:08 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:07:08 [info]: [Redis Stream] Consumer consumer:418ee51559ac started for group:reports on stream:sensors
+2026-02-27 01:07:08 [info]: [Redis Stream] Consumer consumer:6379a82e8a78 started for group:anomalies on stream:anomalies
+2026-02-27 01:07:08 [info]: [Redis Stream] Consumer consumer:5f62d4fb2313 started for group:pump on stream:pump
+2026-02-27 01:07:08 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:08:11 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:08:19 [info]: [Pump Service] Sending control ON for user: user_123
+2026-02-27 01:08:20 [info]: [Pump Service] Sending control ON for user: user_123
+2026-02-27 01:08:22 [info]: [Pump Service] Sending control OFF for user: user_123
+2026-02-27 01:08:24 [info]: [Pump Service] Sending control ON for user: user_123
+2026-02-27 01:08:24 [info]: [Pump Service] Sending control ON for user: user_123
+2026-02-27 01:09:25 [info]: [Socket] Client disconnected
+2026-02-27 01:09:25 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:09:36 [info]: [Socket] Client disconnected
+2026-02-27 01:09:36 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:09:49 [info]: [Socket] Client disconnected
+2026-02-27 01:09:49 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:10:44 [info]: [Socket] Client disconnected
+2026-02-27 01:10:50 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:11:23 [info]: [Pump Service] Sending control OFF for user: user_123
+2026-02-27 01:11:24 [info]: [Pump Service] Sending control OFF for user: user_123
+2026-02-27 01:11:26 [info]: [Pump Service] Sending control ON for user: user_123
+2026-02-27 01:11:27 [info]: [Pump Service] Sending control ON for user: user_123
+2026-02-27 01:11:32 [info]: [Pump Service] Sending control ON for user: user_123
+2026-02-27 01:16:11 [info]: ✅ Redis Connected
+2026-02-27 01:16:11 [info]: ✅ MQTT Connected
+2026-02-27 01:16:12 [info]: ✅ MongoDB Connected
+2026-02-27 01:16:12 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:16:12 [info]: [Redis Stream] Consumer consumer:cafe44eb32d6 started for group:reports on stream:sensors
+2026-02-27 01:16:12 [info]: [Redis Stream] Consumer consumer:f5e26b88b9bc started for group:anomalies on stream:anomalies
+2026-02-27 01:16:12 [info]: [Redis Stream] Consumer consumer:19f9de4dcad8 started for group:pump on stream:pump
+2026-02-27 01:16:12 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:16:12 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:16:22 [info]: [Pump Service] Sending control ON for user: user_123
+2026-02-27 01:16:51 [info]: [Socket] User test_user_001 connected and joined room: user_test_user_001
+2026-02-27 01:16:51 [info]: ✅ Redis Connected
+2026-02-27 01:16:51 [info]: ✅ MQTT Connected
+2026-02-27 01:16:52 [info]: ✅ MongoDB Connected
+2026-02-27 01:16:53 [info]: [MQTT] Message received on farm/test_user_001/sensors
+2026-02-27 01:16:53 [info]: [Pump Service] Sending control ON for user: test_user_001
+2026-02-27 01:16:53 [info]: [MQTT] Message received on farm/test_user_001/pump/status
+2026-02-27 01:16:58 [info]: [Socket] Client disconnected
+2026-02-27 01:17:07 [info]: [Report Service] Processing data for user: test_user_001
+2026-02-27 01:17:07 [error]: [Report Service] Validation Error: "type" is not allowed
+2026-02-27 01:18:22 [info]: ✅ Redis Connected
+2026-02-27 01:18:22 [info]: ✅ MQTT Connected
+2026-02-27 01:18:23 [info]: ✅ MongoDB Connected
+2026-02-27 01:18:23 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:18:23 [info]: [Redis Stream] Consumer consumer:4f56d06a0eef started for group:reports on stream:sensors
+2026-02-27 01:18:23 [info]: [Redis Stream] Consumer consumer:1e69b195662c started for group:anomalies on stream:anomalies
+2026-02-27 01:18:23 [info]: [Redis Stream] Consumer consumer:f7a8f74d267d started for group:pump on stream:pump
+2026-02-27 01:18:23 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:18:23 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:18:33 [info]: ✅ Redis Connected
+2026-02-27 01:18:33 [info]: ✅ MQTT Connected
+2026-02-27 01:18:33 [info]: ✅ MongoDB Connected
+2026-02-27 01:18:33 [info]: 🚀 Server running on port 5002 in development mode
+2026-02-27 01:18:33 [info]: [Redis Stream] Consumer consumer:4cdc47ef7855 started for group:reports on stream:sensors
+2026-02-27 01:18:33 [info]: [Redis Stream] Consumer consumer:852efb1329d2 started for group:anomalies on stream:anomalies
+2026-02-27 01:18:33 [info]: [Redis Stream] Consumer consumer:85ca0e9877ab started for group:pump on stream:pump
+2026-02-27 01:18:33 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:18:41 [info]: [Socket] User test_user_001 connected and joined room: user_test_user_001
+2026-02-27 01:18:43 [info]: [MQTT] Message received on farm/test_user_001/sensors
+2026-02-27 01:18:43 [info]: [MQTT] Message received on farm/test_user_001/sensors
+2026-02-27 01:18:43 [info]: [Pump Service] Sending control ON for user: test_user_001
+2026-02-27 01:18:43 [info]: [MQTT] Message received on farm/test_user_001/pump/status
+2026-02-27 01:18:43 [info]: [MQTT] Message received on farm/test_user_001/pump/status
+2026-02-27 01:18:48 [info]: [Socket] Client disconnected
+2026-02-27 01:18:58 [info]: [Pump Service] Status update for test_user_001: running
+2026-02-27 01:18:58 [info]: [Report Service] Processing data for user: test_user_001
+2026-02-27 01:18:58 [info]: [AI Service] Processing sensor data for test_user_001
+2026-02-27 01:18:58 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:18:58 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:18:58 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:18:58 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 01:19:03 [info]: [Pump Service] Status update for test_user_001: running
+2026-02-27 01:19:03 [info]: [Report Service] Processing data for user: test_user_001
+2026-02-27 01:19:03 [info]: [AI Service] Processing sensor data for test_user_001
+2026-02-27 01:19:03 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:19:03 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:19:03 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:19:03 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 01:20:26 [info]: ✅ Redis Connected
+2026-02-27 01:20:26 [info]: ✅ MQTT Connected
+2026-02-27 01:20:28 [info]: ✅ MongoDB Connected
+2026-02-27 01:20:28 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:20:28 [info]: [Redis Stream] Consumer consumer:2628af52b72 started for group:reports on stream:sensors
+2026-02-27 01:20:28 [info]: [Redis Stream] Consumer consumer:bdf8f9b0431c started for group:anomalies on stream:anomalies
+2026-02-27 01:20:28 [info]: [Redis Stream] Consumer consumer:d9310285cf31 started for group:pump on stream:pump
+2026-02-27 01:20:28 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:20:28 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:24:22 [info]: ✅ Redis Connected
+2026-02-27 01:24:22 [info]: ✅ MQTT Connected
+2026-02-27 01:24:23 [info]: ✅ MongoDB Connected
+2026-02-27 01:24:23 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:24:23 [info]: [Redis Stream] Consumer consumer:fae7764f8c87 started for group:reports on stream:sensors
+2026-02-27 01:24:23 [info]: [Redis Stream] Consumer consumer:406ec7cf9fd2 started for group:anomalies on stream:anomalies
+2026-02-27 01:24:23 [info]: [Redis Stream] Consumer consumer:27f9293aef8f started for group:pump on stream:pump
+2026-02-27 01:24:23 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:24:23 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:24:30 [info]: ✅ Redis Connected
+2026-02-27 01:24:30 [info]: ✅ MQTT Connected
+2026-02-27 01:24:31 [info]: ✅ MongoDB Connected
+2026-02-27 01:24:31 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:24:31 [info]: [Redis Stream] Consumer consumer:835286794c05 started for group:reports on stream:sensors
+2026-02-27 01:24:31 [info]: [Redis Stream] Consumer consumer:b37af8d6c382 started for group:anomalies on stream:anomalies
+2026-02-27 01:24:31 [info]: [Redis Stream] Consumer consumer:30042c005b92 started for group:pump on stream:pump
+2026-02-27 01:24:31 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:24:31 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:24:43 [info]: ✅ Redis Connected
+2026-02-27 01:24:43 [info]: ✅ MQTT Connected
+2026-02-27 01:24:44 [info]: ✅ MongoDB Connected
+2026-02-27 01:24:44 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:24:44 [info]: [Redis Stream] Consumer consumer:264807500d2d started for group:reports on stream:sensors
+2026-02-27 01:24:44 [info]: [Redis Stream] Consumer consumer:ae24f0ad6a46 started for group:anomalies on stream:anomalies
+2026-02-27 01:24:44 [info]: [Redis Stream] Consumer consumer:624983d44e67 started for group:pump on stream:pump
+2026-02-27 01:24:44 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:24:44 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:24:53 [info]: ✅ Redis Connected
+2026-02-27 01:24:53 [info]: ✅ MQTT Connected
+2026-02-27 01:24:59 [info]: ✅ MongoDB Connected
+2026-02-27 01:24:59 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:24:59 [info]: [Redis Stream] Consumer consumer:e8c965d7ac38 started for group:reports on stream:sensors
+2026-02-27 01:24:59 [info]: [Redis Stream] Consumer consumer:533924264161 started for group:anomalies on stream:anomalies
+2026-02-27 01:24:59 [info]: [Redis Stream] Consumer consumer:c4cfc0fe74bf started for group:pump on stream:pump
+2026-02-27 01:24:59 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:24:59 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:25:03 [info]: ✅ Redis Connected
+2026-02-27 01:25:03 [info]: ✅ MQTT Connected
+2026-02-27 01:25:06 [info]: ✅ MongoDB Connected
+2026-02-27 01:25:06 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:25:06 [info]: [Redis Stream] Consumer consumer:85f4bf3b602 started for group:reports on stream:sensors
+2026-02-27 01:25:06 [info]: [Redis Stream] Consumer consumer:1ace65fe91ae started for group:anomalies on stream:anomalies
+2026-02-27 01:25:06 [info]: [Redis Stream] Consumer consumer:aaf09a6b9118 started for group:pump on stream:pump
+2026-02-27 01:25:06 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:25:09 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:27:29 [info]: [Socket] Client disconnected
+2026-02-27 01:27:29 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:27:56 [info]: ✅ Redis Connected
+2026-02-27 01:27:56 [info]: ✅ MQTT Connected
+2026-02-27 01:27:59 [info]: ✅ MongoDB Connected
+2026-02-27 01:27:59 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:27:59 [info]: [Redis Stream] Consumer consumer:a451b11c25e1 started for group:reports on stream:sensors
+2026-02-27 01:27:59 [info]: [Redis Stream] Consumer consumer:4dba156ed873 started for group:anomalies on stream:anomalies
+2026-02-27 01:27:59 [info]: [Redis Stream] Consumer consumer:dfaf6e6c8b7d started for group:pump on stream:pump
+2026-02-27 01:27:59 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:28:02 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:28:20 [info]: ✅ Redis Connected
+2026-02-27 01:28:20 [info]: ✅ MQTT Connected
+2026-02-27 01:28:21 [info]: ✅ MongoDB Connected
+2026-02-27 01:28:21 [info]: 🚀 Server running on port 5003  in development mode
+2026-02-27 01:28:21 [info]: [Redis Stream] Consumer consumer:1e60b403042e started for group:reports:noai  on stream:sensors:noai 
+2026-02-27 01:28:21 [info]: [Redis Stream] Consumer consumer:577701d4e8e5 started for group:anomalies:noai  on stream:anomalies:noai 
+2026-02-27 01:28:21 [info]: [Redis Stream] Consumer consumer:0fb7568d418f started for group:pump:noai  on stream:pump:noai 
+2026-02-27 01:28:21 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:28:48 [info]: [MQTT] Message received on farm/qa_noai_001/sensors
+2026-02-27 01:28:48 [info]: [MQTT] Message received on farm/qa_noai_001/sensors
+2026-02-27 01:28:53 [info]: [MQTT] Message received on farm/qa_noai_001/sensors
+2026-02-27 01:28:53 [info]: [MQTT] Message received on farm/qa_noai_001/sensors
+2026-02-27 01:28:58 [info]: [MQTT] Message received on farm/qa_noai_001/sensors
+2026-02-27 01:28:59 [info]: [Report Service] Processing data for user: qa_noai_001
+2026-02-27 01:28:59 [info]: [AI Service] Processing sensor data for qa_noai_001
+2026-02-27 01:28:59 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:28:59 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:28:59 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:28:59 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 01:29:03 [info]: [MQTT] Message received on farm/qa_noai_001/sensors
+2026-02-27 01:29:08 [info]: [MQTT] Message received on farm/qa_noai_001/sensors
+2026-02-27 01:29:10 [info]: [MQTT] Message received on farm/qa_noai_001/anomaly
+2026-02-27 01:29:18 [info]: [MQTT] Message received on farm/qa_noai_001/pump/status
+2026-02-27 01:29:19 [info]: [Report Service] Processing data for user: qa_noai_001
+2026-02-27 01:29:19 [info]: [AI Service] Processing sensor data for qa_noai_001
+2026-02-27 01:29:19 [info]: [Anomaly Service] Anomaly detected for user: qa_noai_001
+2026-02-27 01:29:19 [info]: [Pump Service] Status update for qa_noai_001: running
+2026-02-27 01:29:19 [info]: [Anomaly Service] Image saved to C:\Users\ms\Desktop\SSH2026\backend\storage\anomalies\anomaly_qa_noai_001_1772135959929.jpg
+2026-02-27 01:29:19 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:29:19 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:29:19 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:29:19 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 01:29:30 [info]: [Report Service] Processing data for user: qa_noai_001
+2026-02-27 01:29:30 [info]: [AI Service] Processing sensor data for qa_noai_001
+2026-02-27 01:29:30 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:29:30 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:29:30 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:29:30 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 01:29:43 [info]: [MQTT] Message received on farm/qa_noai_001/sensors
+2026-02-27 01:29:43 [info]: [MQTT] Message received on farm/qa_noai_001/anomaly
+2026-02-27 01:29:43 [info]: [MQTT] Message received on farm/qa_noai_001/pump/status
+2026-02-27 01:29:50 [info]: [Report Service] Processing data for user: qa_noai_001
+2026-02-27 01:29:50 [info]: [AI Service] Processing sensor data for qa_noai_001
+2026-02-27 01:29:50 [info]: [Anomaly Service] Anomaly detected for user: qa_noai_001
+2026-02-27 01:29:50 [info]: [Pump Service] Status update for qa_noai_001: running
+2026-02-27 01:29:50 [info]: [Anomaly Service] Image saved to C:\Users\ms\Desktop\SSH2026\backend\storage\anomalies\anomaly_qa_noai_001_1772135990272.jpg
+2026-02-27 01:29:50 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:29:50 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:29:50 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:29:50 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 01:29:52 [info]: [Pump Service] Sending control ON for user: user_123
+2026-02-27 01:29:54 [info]: [Pump Service] Sending control OFF for user: user_123
+2026-02-27 01:29:55 [info]: [Pump Service] Sending control ON for user: user_123
+2026-02-27 01:30:00 [info]: [Report Service] Processing data for user: qa_noai_001
+2026-02-27 01:30:00 [info]: [AI Service] Processing sensor data for qa_noai_001
+2026-02-27 01:30:00 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:30:00 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:30:00 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:30:00 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 01:30:20 [info]: [Report Service] Processing data for user: qa_noai_001
+2026-02-27 01:30:20 [info]: [AI Service] Processing sensor data for qa_noai_001
+2026-02-27 01:30:20 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:30:20 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:30:20 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:30:20 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 01:30:40 [info]: ✅ Redis Connected
+2026-02-27 01:30:40 [info]: ✅ MQTT Connected
+2026-02-27 01:30:43 [info]: ✅ MongoDB Connected
+2026-02-27 01:31:10 [info]: ✅ Redis Connected
+2026-02-27 01:31:10 [info]: ✅ MQTT Connected
+2026-02-27 01:31:11 [info]: ✅ MongoDB Connected
+2026-02-27 01:31:11 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:31:11 [info]: [Redis Stream] Consumer consumer:04245317447d started for group:reports on stream:sensors
+2026-02-27 01:31:11 [info]: [Redis Stream] Consumer consumer:8b5e955daa2d started for group:anomalies on stream:anomalies
+2026-02-27 01:31:11 [info]: [Redis Stream] Consumer consumer:72fe5dfb00be started for group:pump on stream:pump
+2026-02-27 01:31:11 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:31:11 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:31:49 [info]: ✅ Redis Connected
+2026-02-27 01:31:49 [info]: ✅ MQTT Connected
+2026-02-27 01:31:50 [info]: ✅ MongoDB Connected
+2026-02-27 01:31:50 [info]: 🚀 Server running on port 5003  in development mode
+2026-02-27 01:31:50 [info]: [Redis Stream] Consumer consumer:0908d3416c78 started for group:reports on stream:sensors
+2026-02-27 01:31:50 [info]: [Redis Stream] Consumer consumer:8a34a9655f44 started for group:anomalies on stream:anomalies
+2026-02-27 01:31:50 [info]: [Redis Stream] Consumer consumer:f4da46efcbfa started for group:pump on stream:pump
+2026-02-27 01:31:50 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:32:14 [info]: [MQTT] Message received on farm/qa_noai_002/sensors
+2026-02-27 01:32:14 [info]: [MQTT] Message received on farm/qa_noai_002/sensors
+2026-02-27 01:32:19 [info]: [MQTT] Message received on farm/qa_noai_002/sensors
+2026-02-27 01:32:19 [info]: [MQTT] Message received on farm/qa_noai_002/sensors
+2026-02-27 01:32:24 [info]: [MQTT] Message received on farm/qa_noai_002/sensors
+2026-02-27 01:32:27 [info]: [Report Service] Processing data for user: qa_noai_002
+2026-02-27 01:32:27 [info]: [AI Service] Processing sensor data for qa_noai_002
+2026-02-27 01:32:27 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:32:27 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:32:27 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:32:27 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 01:32:29 [info]: [MQTT] Message received on farm/qa_noai_002/sensors
+2026-02-27 01:32:31 [info]: [MQTT] Message received on farm/qa_noai_002/pump/status
+2026-02-27 01:32:31 [info]: [MQTT] Message received on farm/qa_noai_002/anomaly
+2026-02-27 01:32:34 [info]: [MQTT] Message received on farm/qa_noai_002/sensors
+2026-02-27 01:32:37 [info]: [Anomaly Service] Anomaly detected for user: qa_noai_002
+2026-02-27 01:32:37 [info]: [Pump Service] Status update for qa_noai_002: running
+2026-02-27 01:32:37 [info]: [Report Service] Processing data for user: qa_noai_002
+2026-02-27 01:32:37 [info]: [AI Service] Processing sensor data for qa_noai_002
+2026-02-27 01:32:37 [info]: [Anomaly Service] Image saved to C:\Users\ms\Desktop\SSH2026\backend\storage\anomalies\anomaly_qa_noai_002_1772136157403.jpg
+2026-02-27 01:32:37 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:32:37 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:32:37 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:32:37 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 01:32:40 [info]: [MQTT] Message received on farm/qa_noai_002/sensors
+2026-02-27 01:32:40 [info]: [MQTT] Message received on farm/qa_noai_002/anomaly
+2026-02-27 01:32:40 [info]: [MQTT] Message received on farm/qa_noai_002/pump/status
+2026-02-27 01:32:42 [info]: [Pump Service] Status update for qa_noai_002: running
+2026-02-27 01:32:42 [info]: [Report Service] Processing data for user: qa_noai_002
+2026-02-27 01:32:42 [info]: [AI Service] Processing sensor data for qa_noai_002
+2026-02-27 01:32:42 [info]: [Anomaly Service] Anomaly detected for user: qa_noai_002
+2026-02-27 01:32:42 [info]: [Anomaly Service] Image saved to C:\Users\ms\Desktop\SSH2026\backend\storage\anomalies\anomaly_qa_noai_002_1772136162529.jpg
+2026-02-27 01:32:42 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:32:42 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:32:42 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:32:42 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 01:32:52 [info]: [Report Service] Processing data for user: qa_noai_002
+2026-02-27 01:32:52 [info]: [AI Service] Processing sensor data for qa_noai_002
+2026-02-27 01:32:52 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:32:52 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:32:52 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:32:52 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 01:33:12 [info]: [Report Service] Processing data for user: qa_noai_002
+2026-02-27 01:33:12 [info]: [AI Service] Processing sensor data for qa_noai_002
+2026-02-27 01:33:12 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:33:12 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:33:12 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:33:12 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 01:33:33 [info]: [Report Service] Processing data for user: qa_noai_002
+2026-02-27 01:33:33 [info]: [AI Service] Processing sensor data for qa_noai_002
+2026-02-27 01:33:33 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:33:33 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:33:33 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:33:33 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 01:33:44 [info]: ✅ Redis Connected
+2026-02-27 01:33:44 [info]: ✅ MQTT Connected
+2026-02-27 01:33:46 [info]: ✅ MongoDB Connected
+2026-02-27 01:33:53 [info]: ✅ Redis Connected
+2026-02-27 01:33:53 [info]: ✅ MQTT Connected
+2026-02-27 01:33:56 [info]: ✅ MongoDB Connected
+2026-02-27 01:33:56 [info]: 🚀 Server running on port 5006 in development mode
+2026-02-27 01:33:56 [info]: [Redis Stream] Consumer consumer:a763b2941235 started for group:reports on stream:sensors
+2026-02-27 01:33:56 [info]: [Redis Stream] Consumer consumer:b5ae1dcca5b2 started for group:anomalies on stream:anomalies
+2026-02-27 01:33:56 [info]: [Redis Stream] Consumer consumer:5ad832902f29 started for group:pump on stream:pump
+2026-02-27 01:33:56 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:34:16 [info]: [MQTT] Message received on farm/qa_noai_003/anomaly
+2026-02-27 01:34:16 [info]: [MQTT] Message received on farm/qa_noai_003/anomaly
+2026-02-27 01:34:16 [info]: [MQTT] Message received on farm/qa_noai_003/pump/status
+2026-02-27 01:34:16 [info]: [MQTT] Message received on farm/qa_noai_003/pump/status
+2026-02-27 01:34:23 [info]: [Socket] User qa_noai_003 connected and joined room: user_qa_noai_003
+2026-02-27 01:34:25 [info]: [MQTT] Message received on farm/qa_noai_003/sensors
+2026-02-27 01:34:25 [info]: [MQTT] Message received on farm/qa_noai_003/sensors
+2026-02-27 01:34:25 [info]: [MQTT] Message received on farm/qa_noai_003/anomaly
+2026-02-27 01:34:25 [info]: [MQTT] Message received on farm/qa_noai_003/anomaly
+2026-02-27 01:34:25 [info]: [Pump Service] Sending control ON for user: qa_noai_003
+2026-02-27 01:34:25 [info]: [MQTT] Message received on farm/qa_noai_003/pump/status
+2026-02-27 01:34:25 [info]: [MQTT] Message received on farm/qa_noai_003/pump/status
+2026-02-27 01:34:28 [info]: [Anomaly Service] Anomaly detected for user: qa_noai_003
+2026-02-27 01:34:28 [info]: [Report Service] Processing data for user: qa_noai_003
+2026-02-27 01:34:28 [info]: [Anomaly Service] Anomaly detected for user: qa_noai_003
+2026-02-27 01:34:28 [info]: [Pump Service] Status update for qa_noai_003: running
+2026-02-27 01:34:28 [info]: [Pump Service] Status update for qa_noai_003: running
+2026-02-27 01:34:28 [info]: [Pump Service] Status update for qa_noai_003: running
+2026-02-27 01:34:28 [info]: [Anomaly Service] Image saved to C:\Users\ms\Desktop\SSH2026\backend\storage\anomalies\anomaly_qa_noai_003_1772136268583.jpg
+2026-02-27 01:34:28 [info]: [Pump Service] Status update for qa_noai_003: running
+2026-02-27 01:34:28 [info]: [Report Service] Processing data for user: qa_noai_003
+2026-02-27 01:34:28 [info]: [AI Service] Processing sensor data for qa_noai_003
+2026-02-27 01:34:28 [info]: [Anomaly Service] Image saved to C:\Users\ms\Desktop\SSH2026\backend\storage\anomalies\anomaly_qa_noai_003_1772136268593.jpg
+2026-02-27 01:34:28 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:34:28 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:34:28 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:34:28 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 01:34:29 [info]: [Report Service] Report saved for qa_noai_003
+2026-02-27 01:34:30 [info]: [Socket] Client disconnected
+2026-02-27 01:34:38 [info]: [Anomaly Service] Anomaly detected for user: qa_noai_003
+2026-02-27 01:34:38 [info]: [Anomaly Service] Image saved to C:\Users\ms\Desktop\SSH2026\backend\storage\anomalies\anomaly_qa_noai_003_1772136278685.jpg
+2026-02-27 01:34:43 [info]: [Anomaly Service] Anomaly detected for user: qa_noai_003
+2026-02-27 01:34:43 [info]: [Anomaly Service] Image saved to C:\Users\ms\Desktop\SSH2026\backend\storage\anomalies\anomaly_qa_noai_003_1772136283699.jpg
+2026-02-27 01:37:51 [info]: ✅ Redis Connected
+2026-02-27 01:37:51 [info]: ✅ MQTT Connected
+2026-02-27 01:37:52 [info]: ✅ MongoDB Connected
+2026-02-27 01:37:52 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:37:52 [info]: [Redis Stream] Consumer consumer:1a0277f111c7 started for group:reports on stream:sensors
+2026-02-27 01:37:52 [info]: [Redis Stream] Consumer consumer:3d3e8a7422f4 started for group:anomalies on stream:anomalies
+2026-02-27 01:37:52 [info]: [Redis Stream] Consumer consumer:9f661370b3fb started for group:pump on stream:pump
+2026-02-27 01:37:52 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:37:52 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:37:56 [info]: ✅ Redis Connected
+2026-02-27 01:37:56 [info]: ✅ MQTT Connected
+2026-02-27 01:37:56 [info]: ✅ MongoDB Connected
+2026-02-27 01:37:56 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:37:56 [info]: [Redis Stream] Consumer consumer:ece40115f2dd started for group:reports on stream:sensors
+2026-02-27 01:37:56 [info]: [Redis Stream] Consumer consumer:68cb6d5dbee started for group:anomalies on stream:anomalies
+2026-02-27 01:37:56 [info]: [Redis Stream] Consumer consumer:1176bd2ab925 started for group:pump on stream:pump
+2026-02-27 01:37:56 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:37:56 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:38:02 [info]: ✅ Redis Connected
+2026-02-27 01:38:02 [info]: ✅ MQTT Connected
+2026-02-27 01:38:03 [info]: ✅ MongoDB Connected
+2026-02-27 01:38:03 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:38:03 [info]: [Redis Stream] Consumer consumer:55dd73d9c729 started for group:reports on stream:sensors
+2026-02-27 01:38:03 [info]: [Redis Stream] Consumer consumer:a9d646e70bc7 started for group:anomalies on stream:anomalies
+2026-02-27 01:38:03 [info]: [Redis Stream] Consumer consumer:bcb9228165d7 started for group:pump on stream:pump
+2026-02-27 01:38:03 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:38:04 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:38:13 [info]: ✅ Redis Connected
+2026-02-27 01:38:13 [info]: ✅ MQTT Connected
+2026-02-27 01:38:14 [info]: ✅ MongoDB Connected
+2026-02-27 01:38:14 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:38:14 [info]: [Redis Stream] Consumer consumer:5ccdd7a90b3b started for group:reports on stream:sensors
+2026-02-27 01:38:14 [info]: [Redis Stream] Consumer consumer:62a87d2cf12a started for group:anomalies on stream:anomalies
+2026-02-27 01:38:14 [info]: [Redis Stream] Consumer consumer:a6fa5b313bd9 started for group:pump on stream:pump
+2026-02-27 01:38:14 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:38:14 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:38:21 [info]: ✅ Redis Connected
+2026-02-27 01:38:21 [info]: ✅ MQTT Connected
+2026-02-27 01:38:22 [info]: ✅ MongoDB Connected
+2026-02-27 01:38:22 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:38:22 [info]: [Redis Stream] Consumer consumer:e742bb4534d5 started for group:reports on stream:sensors
+2026-02-27 01:38:22 [info]: [Redis Stream] Consumer consumer:5face5e85d37 started for group:anomalies on stream:anomalies
+2026-02-27 01:38:22 [info]: [Redis Stream] Consumer consumer:be245c0d93bd started for group:pump on stream:pump
+2026-02-27 01:38:22 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:38:22 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:38:26 [info]: ✅ Redis Connected
+2026-02-27 01:38:26 [info]: ✅ MQTT Connected
+2026-02-27 01:38:27 [info]: ✅ MongoDB Connected
+2026-02-27 01:38:27 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 01:38:27 [info]: [Redis Stream] Consumer consumer:5ad6a43c3451 started for group:reports on stream:sensors
+2026-02-27 01:38:27 [info]: [Redis Stream] Consumer consumer:fdf73f4c5231 started for group:anomalies on stream:anomalies
+2026-02-27 01:38:27 [info]: [Redis Stream] Consumer consumer:014afb4cde61 started for group:pump on stream:pump
+2026-02-27 01:38:27 [info]: [MQTT] Subscribed to: farm/+/sensors, farm/+/anomaly, farm/+/pump/status
+2026-02-27 01:38:27 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 01:38:51 [info]: [Sowing Service] Publishing sowing date for user: user_123
+2026-02-27 01:38:58 [info]: [Socket] User qa_image_001 connected and joined room: user_qa_image_001
+2026-02-27 01:39:00 [info]: [MQTT] Message received on farm/qa_image_001/sensors
+2026-02-27 01:39:00 [info]: [MQTT] Message received on farm/qa_image_001/anomaly
+2026-02-27 01:39:00 [info]: [MQTT] Message received on farm/qa_image_001/sensors
+2026-02-27 01:39:00 [info]: [MQTT] Message received on farm/qa_image_001/anomaly
+2026-02-27 01:39:00 [info]: [Pump Service] Sending control ON for user: qa_image_001
+2026-02-27 01:39:00 [info]: [MQTT] Message received on farm/qa_image_001/pump/status
+2026-02-27 01:39:00 [info]: [MQTT] Message received on farm/qa_image_001/pump/status
+2026-02-27 01:39:05 [info]: [Socket] Client disconnected
+2026-02-27 01:39:12 [info]: [Pump Service] Status update for qa_image_001: running
+2026-02-27 01:39:12 [info]: [Report Service] Processing data for user: qa_image_001
+2026-02-27 01:39:12 [info]: [Anomaly Service] Anomaly detected for user: qa_image_001
+2026-02-27 01:39:12 [info]: [Report Service] Processing data for user: qa_image_001
+2026-02-27 01:39:12 [info]: [Anomaly Service] Image saved to C:\Users\ms\Desktop\SSH2026\backend\storage\anomalies\anomaly_qa_image_001_1772136552728.jpg
+2026-02-27 01:39:12 [info]: [AI Service] Processing sensor data for qa_image_001
+2026-02-27 01:39:12 [info]: [Anomaly Service] Anomaly detected for user: qa_image_001
+2026-02-27 01:39:12 [info]: [Pump Service] Status update for qa_image_001: running
+2026-02-27 01:39:12 [info]: [Anomaly Service] Image saved to C:\Users\ms\Desktop\SSH2026\backend\storage\anomalies\anomaly_qa_image_001_1772136552756.jpg
+2026-02-27 01:39:12 [info]: [Report Service] Report saved for qa_image_001
+2026-02-27 01:39:12 [error]: [AI Service] Failed to parse JSON from yield_prediction.py: 
+2026-02-27 01:39:12 [error]: [AI Service] Sensor processing failed: Invalid output format from AI model
+2026-02-27 01:39:12 [error]: [Report Service] Error: Invalid output format from AI model
+2026-02-27 01:39:12 [error]: [AI Service] dryness_prediction.py failed with code 1. Error: Traceback (most recent call last):
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 15, in <module>
+    predict()
+    ~~~~~~~^^
+  File "C:\Users\ms\Desktop\SSH2026\backend\scripts\ai\dryness_prediction.py", line 3, in predict
+    input_data = json.loads(sys.argv[1])
+                 ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'?
+
+2026-02-27 02:57:10 [info]: ✅ Redis Connected
+2026-02-27 02:57:10 [info]: ✅ MQTT Connected
+2026-02-27 02:57:11 [info]: ✅ MongoDB Connected
+2026-02-27 02:57:11 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:57:11 [info]: [Redis Stream] Consumer consumer:5cfc96439a89 started for group:reports on stream:sensors
+2026-02-27 02:57:11 [info]: [Redis Stream] Consumer consumer:5ccea167aab7 started for group:anomalies on stream:anomalies
+2026-02-27 02:57:11 [info]: [Redis Stream] Consumer consumer:a4545748c8c3 started for group:pump on stream:pump
+2026-02-27 02:57:11 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:57:11 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 02:57:18 [info]: ✅ Redis Connected
+2026-02-27 02:57:18 [info]: ✅ MQTT Connected
+2026-02-27 02:57:19 [info]: ✅ MongoDB Connected
+2026-02-27 02:57:19 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:57:19 [info]: [Redis Stream] Consumer consumer:0157d85dbbce started for group:reports on stream:sensors
+2026-02-27 02:57:19 [info]: [Redis Stream] Consumer consumer:c5c5f744a0bc started for group:anomalies on stream:anomalies
+2026-02-27 02:57:19 [info]: [Redis Stream] Consumer consumer:2299f3cc1c7e started for group:pump on stream:pump
+2026-02-27 02:57:19 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:57:19 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 02:57:27 [info]: ✅ Redis Connected
+2026-02-27 02:57:27 [info]: ✅ MQTT Connected
+2026-02-27 02:57:27 [info]: ✅ MongoDB Connected
+2026-02-27 02:57:27 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:57:27 [info]: [Redis Stream] Consumer consumer:a1ba8872bdbd started for group:reports on stream:sensors
+2026-02-27 02:57:27 [info]: [Redis Stream] Consumer consumer:f54d5050833b started for group:anomalies on stream:anomalies
+2026-02-27 02:57:27 [info]: [Redis Stream] Consumer consumer:9ce4f19025 started for group:pump on stream:pump
+2026-02-27 02:57:27 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:57:28 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 02:57:34 [info]: ✅ Redis Connected
+2026-02-27 02:57:34 [info]: ✅ MQTT Connected
+2026-02-27 02:57:35 [info]: ✅ MongoDB Connected
+2026-02-27 02:57:35 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:57:35 [info]: [Redis Stream] Consumer consumer:2001fac793ae started for group:reports on stream:sensors
+2026-02-27 02:57:35 [info]: [Redis Stream] Consumer consumer:f85ad370af2f started for group:anomalies on stream:anomalies
+2026-02-27 02:57:35 [info]: [Redis Stream] Consumer consumer:fed7044d1186 started for group:pump on stream:pump
+2026-02-27 02:57:35 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:57:39 [info]: ✅ Redis Connected
+2026-02-27 02:57:39 [info]: ✅ MQTT Connected
+2026-02-27 02:57:40 [info]: ✅ MongoDB Connected
+2026-02-27 02:57:40 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:57:40 [info]: [Redis Stream] Consumer consumer:c3c50333221d started for group:reports on stream:sensors
+2026-02-27 02:57:40 [info]: [Redis Stream] Consumer consumer:dc78e9e2e133 started for group:anomalies on stream:anomalies
+2026-02-27 02:57:40 [info]: [Redis Stream] Consumer consumer:1bfc70088728 started for group:pump on stream:pump
+2026-02-27 02:57:40 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:57:40 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 02:57:49 [info]: ✅ Redis Connected
+2026-02-27 02:57:49 [info]: ✅ MQTT Connected
+2026-02-27 02:57:50 [info]: ✅ MongoDB Connected
+2026-02-27 02:57:50 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:57:50 [info]: [Redis Stream] Consumer consumer:1b84a6683f94 started for group:reports on stream:sensors
+2026-02-27 02:57:50 [info]: [Redis Stream] Consumer consumer:b11b86402276 started for group:anomalies on stream:anomalies
+2026-02-27 02:57:50 [info]: [Redis Stream] Consumer consumer:9124a47770a6 started for group:pump on stream:pump
+2026-02-27 02:57:50 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:57:55 [info]: ✅ Redis Connected
+2026-02-27 02:57:55 [info]: ✅ MQTT Connected
+2026-02-27 02:57:56 [info]: ✅ MongoDB Connected
+2026-02-27 02:57:56 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:57:56 [info]: [Redis Stream] Consumer consumer:83a41aa9aee3 started for group:reports on stream:sensors
+2026-02-27 02:57:56 [info]: [Redis Stream] Consumer consumer:26f5f99d86c started for group:anomalies on stream:anomalies
+2026-02-27 02:57:56 [info]: [Redis Stream] Consumer consumer:bda5c831e4f6 started for group:pump on stream:pump
+2026-02-27 02:57:56 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:57:56 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 02:58:01 [info]: ✅ Redis Connected
+2026-02-27 02:58:01 [info]: ✅ MQTT Connected
+2026-02-27 02:58:01 [info]: ✅ MongoDB Connected
+2026-02-27 02:58:01 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:58:01 [info]: [Redis Stream] Consumer consumer:f6560fda43a1 started for group:reports on stream:sensors
+2026-02-27 02:58:01 [info]: [Redis Stream] Consumer consumer:cbac02c1702c started for group:anomalies on stream:anomalies
+2026-02-27 02:58:01 [info]: [Redis Stream] Consumer consumer:ca7051ef1187 started for group:pump on stream:pump
+2026-02-27 02:58:01 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:58:01 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 02:58:10 [info]: ✅ Redis Connected
+2026-02-27 02:58:10 [info]: ✅ MQTT Connected
+2026-02-27 02:58:11 [info]: ✅ MongoDB Connected
+2026-02-27 02:58:11 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:58:11 [info]: [Redis Stream] Consumer consumer:ac4dfae40021 started for group:reports on stream:sensors
+2026-02-27 02:58:11 [info]: [Redis Stream] Consumer consumer:cada754d2e3b started for group:anomalies on stream:anomalies
+2026-02-27 02:58:11 [info]: [Redis Stream] Consumer consumer:0ab988d8576e started for group:pump on stream:pump
+2026-02-27 02:58:11 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:58:11 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 02:58:20 [info]: [Socket] Client disconnected
+2026-02-27 02:58:20 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 02:58:38 [info]: ✅ Redis Connected
+2026-02-27 02:58:38 [info]: ✅ MQTT Connected
+2026-02-27 02:58:39 [info]: ✅ MongoDB Connected
+2026-02-27 02:58:39 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:58:39 [info]: [Redis Stream] Consumer consumer:de173979cb9b started for group:reports on stream:sensors
+2026-02-27 02:58:39 [info]: [Redis Stream] Consumer consumer:03f65a3817c3 started for group:anomalies on stream:anomalies
+2026-02-27 02:58:39 [info]: [Redis Stream] Consumer consumer:3d87c5c0ce96 started for group:pump on stream:pump
+2026-02-27 02:58:39 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:58:39 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 02:58:48 [info]: ✅ Redis Connected
+2026-02-27 02:58:48 [info]: ✅ MQTT Connected
+2026-02-27 02:58:49 [info]: ✅ MongoDB Connected
+2026-02-27 02:58:49 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:58:49 [info]: [Redis Stream] Consumer consumer:c62357662a28 started for group:reports on stream:sensors
+2026-02-27 02:58:49 [info]: [Redis Stream] Consumer consumer:488c2766b4af started for group:anomalies on stream:anomalies
+2026-02-27 02:58:49 [info]: [Redis Stream] Consumer consumer:82d66218f7ac started for group:pump on stream:pump
+2026-02-27 02:58:49 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:58:49 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 02:58:57 [info]: ✅ Redis Connected
+2026-02-27 02:58:57 [info]: ✅ MQTT Connected
+2026-02-27 02:58:58 [info]: ✅ MongoDB Connected
+2026-02-27 02:58:58 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:58:58 [info]: [Redis Stream] Consumer consumer:fc95861a6b14 started for group:reports on stream:sensors
+2026-02-27 02:58:58 [info]: [Redis Stream] Consumer consumer:1c7335a29349 started for group:anomalies on stream:anomalies
+2026-02-27 02:58:58 [info]: [Redis Stream] Consumer consumer:3e400bbd4497 started for group:pump on stream:pump
+2026-02-27 02:58:58 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:58:58 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 02:59:22 [info]: ✅ Redis Connected
+2026-02-27 02:59:24 [info]: ✅ MQTT Connected
+2026-02-27 02:59:26 [info]: ✅ MongoDB Connected
+2026-02-27 02:59:26 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:59:26 [info]: [Redis Stream] Consumer consumer:314dda1d9e52 started for group:reports on stream:sensors
+2026-02-27 02:59:26 [info]: [Redis Stream] Consumer consumer:ac7550a68aaa started for group:anomalies on stream:anomalies
+2026-02-27 02:59:26 [info]: [Redis Stream] Consumer consumer:95c14211f20a started for group:pump on stream:pump
+2026-02-27 02:59:26 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:59:35 [info]: ✅ Redis Connected
+2026-02-27 02:59:35 [info]: ✅ MQTT Connected
+2026-02-27 02:59:36 [info]: ✅ MongoDB Connected
+2026-02-27 02:59:36 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:59:36 [info]: [Redis Stream] Consumer consumer:0c611b522f02 started for group:reports on stream:sensors
+2026-02-27 02:59:36 [info]: [Redis Stream] Consumer consumer:3ad993016766 started for group:anomalies on stream:anomalies
+2026-02-27 02:59:36 [info]: [Redis Stream] Consumer consumer:1ccd0254ef2 started for group:pump on stream:pump
+2026-02-27 02:59:36 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:59:44 [info]: ✅ Redis Connected
+2026-02-27 02:59:44 [info]: ✅ MQTT Connected
+2026-02-27 02:59:45 [info]: ✅ MongoDB Connected
+2026-02-27 02:59:45 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:59:45 [info]: [Redis Stream] Consumer consumer:236940c77bb6 started for group:reports on stream:sensors
+2026-02-27 02:59:45 [info]: [Redis Stream] Consumer consumer:2689fc62a9c6 started for group:anomalies on stream:anomalies
+2026-02-27 02:59:45 [info]: [Redis Stream] Consumer consumer:5c140eb3e76 started for group:pump on stream:pump
+2026-02-27 02:59:45 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:59:45 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 02:59:50 [info]: ✅ Redis Connected
+2026-02-27 02:59:50 [info]: ✅ MQTT Connected
+2026-02-27 02:59:53 [info]: ✅ MongoDB Connected
+2026-02-27 02:59:53 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 02:59:53 [info]: [Redis Stream] Consumer consumer:89fa58684cea started for group:reports on stream:sensors
+2026-02-27 02:59:53 [info]: [Redis Stream] Consumer consumer:25802a073d7a started for group:anomalies on stream:anomalies
+2026-02-27 02:59:53 [info]: [Redis Stream] Consumer consumer:2f3d4d068ad7 started for group:pump on stream:pump
+2026-02-27 02:59:53 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 02:59:55 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 03:01:00 [info]: [Pump Service] Sending control ON
+2026-02-27 03:01:00 [info]: [Sowing Service] Publishing sowing date
+2026-02-27 03:07:10 [info]: ✅ Redis Connected
+2026-02-27 03:07:10 [info]: ✅ MQTT Connected
+2026-02-27 03:07:15 [info]: ✅ MongoDB Connected
+2026-02-27 03:07:15 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 03:07:15 [info]: [Redis Stream] Consumer consumer:13b3b578ccee started for group:reports on stream:sensors
+2026-02-27 03:07:15 [info]: [Redis Stream] Consumer consumer:54ba721b6b04 started for group:anomalies on stream:anomalies
+2026-02-27 03:07:15 [info]: [Redis Stream] Consumer consumer:ca13f11a322f started for group:pump on stream:pump
+2026-02-27 03:07:15 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 03:07:15 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 03:08:26 [info]: ✅ Redis Connected
+2026-02-27 03:08:26 [info]: ✅ MQTT Connected
+2026-02-27 03:08:30 [info]: ✅ MongoDB Connected
+2026-02-27 03:08:30 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 03:08:30 [info]: [Redis Stream] Consumer consumer:725d0530b541 started for group:reports on stream:sensors
+2026-02-27 03:08:30 [info]: [Redis Stream] Consumer consumer:20d64518ac4a started for group:anomalies on stream:anomalies
+2026-02-27 03:08:30 [info]: [Redis Stream] Consumer consumer:4357ac23b888 started for group:pump on stream:pump
+2026-02-27 03:08:30 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 03:08:31 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 03:11:31 [info]: ✅ Redis Connected
+2026-02-27 03:11:31 [info]: ✅ MQTT Connected
+2026-02-27 03:11:34 [info]: ✅ MongoDB Connected
+2026-02-27 03:11:34 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 03:11:34 [info]: [Redis Stream] Consumer consumer:5b489267c6ce started for group:reports on stream:sensors
+2026-02-27 03:11:34 [info]: [Redis Stream] Consumer consumer:8a1275b53f76 started for group:anomalies on stream:anomalies
+2026-02-27 03:11:34 [info]: [Redis Stream] Consumer consumer:ef0e7a7caaeb started for group:pump on stream:pump
+2026-02-27 03:11:34 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 03:11:35 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 03:12:02 [info]: ✅ Redis Connected
+2026-02-27 03:12:02 [info]: ✅ MQTT Connected
+2026-02-27 03:12:03 [info]: ✅ MongoDB Connected
+2026-02-27 03:12:03 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 03:12:03 [info]: [Redis Stream] Consumer consumer:082752c11b5c started for group:reports on stream:sensors
+2026-02-27 03:12:03 [info]: [Redis Stream] Consumer consumer:b43586d733d9 started for group:anomalies on stream:anomalies
+2026-02-27 03:12:03 [info]: [Redis Stream] Consumer consumer:6719b7b6117d started for group:pump on stream:pump
+2026-02-27 03:12:03 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 03:12:05 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 03:12:07 [info]: ✅ Redis Connected
+2026-02-27 03:12:07 [info]: ✅ MQTT Connected
+2026-02-27 03:12:08 [info]: ✅ MongoDB Connected
+2026-02-27 03:12:08 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 03:12:08 [info]: [Redis Stream] Consumer consumer:54a3cddef5de started for group:reports on stream:sensors
+2026-02-27 03:12:08 [info]: [Redis Stream] Consumer consumer:b1e0494924ca started for group:anomalies on stream:anomalies
+2026-02-27 03:12:08 [info]: [Redis Stream] Consumer consumer:ce973057a38a started for group:pump on stream:pump
+2026-02-27 03:12:08 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 03:12:08 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 03:13:01 [info]: [Sowing Service] Publishing sowing date
+2026-02-27 03:19:07 [info]: ✅ Redis Connected
+2026-02-27 03:19:07 [info]: ✅ MQTT Connected
+2026-02-27 03:19:08 [info]: ✅ MongoDB Connected
+2026-02-27 03:19:08 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 03:19:08 [info]: [Redis Stream] Consumer consumer:3a030edc59c2 started for group:reports on stream:sensors
+2026-02-27 03:19:08 [info]: [Redis Stream] Consumer consumer:ed287f17c1b2 started for group:anomalies on stream:anomalies
+2026-02-27 03:19:08 [info]: [Redis Stream] Consumer consumer:c442b626de5c started for group:pump on stream:pump
+2026-02-27 03:19:08 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 03:19:08 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 03:19:13 [info]: ✅ Redis Connected
+2026-02-27 03:19:13 [info]: ✅ MQTT Connected
+2026-02-27 03:19:13 [info]: ✅ MongoDB Connected
+2026-02-27 03:19:13 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 03:19:13 [info]: [Redis Stream] Consumer consumer:4707ed868229 started for group:reports on stream:sensors
+2026-02-27 03:19:13 [info]: [Redis Stream] Consumer consumer:7e725971f1f7 started for group:anomalies on stream:anomalies
+2026-02-27 03:19:13 [info]: [Redis Stream] Consumer consumer:4fc298ed6b61 started for group:pump on stream:pump
+2026-02-27 03:19:13 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 03:19:13 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 03:25:35 [info]: ✅ Redis Connected
+2026-02-27 03:25:35 [info]: ✅ MQTT Connected
+2026-02-27 03:25:38 [info]: ✅ MongoDB Connected
+2026-02-27 03:25:38 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 03:25:38 [info]: [Redis Stream] Consumer consumer:78c51cd8e3da started for group:reports on stream:sensors
+2026-02-27 03:25:38 [info]: [Redis Stream] Consumer consumer:a06cef789b87 started for group:anomalies on stream:anomalies
+2026-02-27 03:25:38 [info]: [Redis Stream] Consumer consumer:ed7e186ba509 started for group:pump on stream:pump
+2026-02-27 03:25:38 [info]: [MQTT] Subscribed to: farm/sensors, farm/anomaly, farm/pump/status
+2026-02-27 03:25:38 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 03:37:06 [info]: ✅ Redis Connected
+2026-02-27 03:37:06 [info]: ✅ MQTT Connected
+2026-02-27 03:37:06 [info]: ✅ MongoDB Connected
+2026-02-27 03:37:06 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 03:37:06 [info]: [Redis Stream] Consumer consumer:6210566e5dae started for group:reports on stream:sensors
+2026-02-27 03:37:06 [info]: [Redis Stream] Consumer consumer:1a9d09727b42 started for group:anomalies on stream:anomalies
+2026-02-27 03:37:06 [info]: [Redis Stream] Consumer consumer:937263d7f001 started for group:pump on stream:pump
+2026-02-27 03:37:06 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 03:37:07 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 03:37:10 [info]: ✅ Redis Connected
+2026-02-27 03:37:10 [info]: ✅ MQTT Connected
+2026-02-27 03:37:11 [info]: ✅ MongoDB Connected
+2026-02-27 03:37:11 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 03:37:11 [info]: [Redis Stream] Consumer consumer:5f2109800e2d started for group:reports on stream:sensors
+2026-02-27 03:37:11 [info]: [Redis Stream] Consumer consumer:a2e5698e1c0f started for group:anomalies on stream:anomalies
+2026-02-27 03:37:11 [info]: [Redis Stream] Consumer consumer:1a8433ce8c5b started for group:pump on stream:pump
+2026-02-27 03:37:11 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 03:37:11 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 03:37:12 [info]: ✅ Redis Connected
+2026-02-27 03:37:12 [info]: ✅ MQTT Connected
+2026-02-27 03:37:16 [info]: ✅ Redis Connected
+2026-02-27 03:37:16 [info]: ✅ MQTT Connected
+2026-02-27 03:37:17 [info]: ✅ MongoDB Connected
+2026-02-27 03:37:17 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 03:37:17 [info]: [Redis Stream] Consumer consumer:ee2575db3a61 started for group:reports on stream:sensors
+2026-02-27 03:37:17 [info]: [Redis Stream] Consumer consumer:f56d38bd7016 started for group:anomalies on stream:anomalies
+2026-02-27 03:37:17 [info]: [Redis Stream] Consumer consumer:5596329db9e6 started for group:pump on stream:pump
+2026-02-27 03:37:17 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 03:37:17 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 03:37:36 [info]: ✅ Redis Connected
+2026-02-27 03:37:36 [info]: ✅ MQTT Connected
+2026-02-27 03:37:36 [info]: ✅ MongoDB Connected
+2026-02-27 03:37:36 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 03:37:36 [info]: [Redis Stream] Consumer consumer:4cf3bdb97c8 started for group:reports on stream:sensors
+2026-02-27 03:37:36 [info]: [Redis Stream] Consumer consumer:2d652ba8752d started for group:anomalies on stream:anomalies
+2026-02-27 03:37:36 [info]: [Redis Stream] Consumer consumer:5ca1b07a6b2f started for group:pump on stream:pump
+2026-02-27 03:37:36 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 03:37:37 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 03:53:38 [info]: ✅ Redis Connected
+2026-02-27 03:53:38 [info]: ✅ MQTT Connected
+2026-02-27 03:53:39 [info]: ✅ MongoDB Connected
+2026-02-27 03:53:39 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 03:53:39 [info]: [Redis Stream] Consumer consumer:bf13fbbb0e6d started for group:reports on stream:sensors
+2026-02-27 03:53:39 [info]: [Redis Stream] Consumer consumer:cd8ae8a8f27e started for group:anomalies on stream:anomalies
+2026-02-27 03:53:39 [info]: [Redis Stream] Consumer consumer:ac7875bdc3bf started for group:pump on stream:pump
+2026-02-27 03:53:39 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 03:53:39 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 03:53:55 [info]: ✅ Redis Connected
+2026-02-27 03:53:55 [info]: ✅ MQTT Connected
+2026-02-27 03:53:55 [info]: ✅ MongoDB Connected
+2026-02-27 03:53:55 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 03:53:55 [info]: [Redis Stream] Consumer consumer:04157484b1e2 started for group:reports on stream:sensors
+2026-02-27 03:53:55 [info]: [Redis Stream] Consumer consumer:2ad52b1ba7ae started for group:anomalies on stream:anomalies
+2026-02-27 03:53:55 [info]: [Redis Stream] Consumer consumer:07cdc4521e1c started for group:pump on stream:pump
+2026-02-27 03:53:55 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 03:53:56 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 04:00:41 [info]: ✅ Redis Connected
+2026-02-27 04:00:42 [info]: ✅ MQTT Connected
+2026-02-27 04:00:43 [info]: ✅ MongoDB Connected
+2026-02-27 04:00:43 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 04:00:43 [info]: [Redis Stream] Consumer consumer:322b0482328a started for group:reports on stream:sensors
+2026-02-27 04:00:43 [info]: [Redis Stream] Consumer consumer:53bf49d19db7 started for group:anomalies on stream:anomalies
+2026-02-27 04:00:43 [info]: [Redis Stream] Consumer consumer:e262fb07ef09 started for group:pump on stream:pump
+2026-02-27 04:00:43 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 04:00:43 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 04:01:08 [info]: [Socket] Client disconnected
+2026-02-27 04:01:09 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 04:01:11 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 04:01:13 [info]: [Socket] Client disconnected
+2026-02-27 04:01:23 [info]: [Sowing Service] Publishing sowing date
+2026-02-27 04:04:32 [info]: ✅ Redis Connected
+2026-02-27 04:04:32 [info]: [MQTT] Connected
+2026-02-27 04:04:33 [info]: ✅ MongoDB Connected
+2026-02-27 04:04:33 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 04:04:33 [info]: [Redis Stream] Consumer consumer:e303c8a63f29 started for group:reports on stream:sensors
+2026-02-27 04:04:33 [info]: [Redis Stream] Consumer consumer:5cf965216822 started for group:anomalies on stream:anomalies
+2026-02-27 04:04:33 [info]: [Redis Stream] Consumer consumer:f088e29ee124 started for group:pump on stream:pump
+2026-02-27 04:04:33 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 04:04:33 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 04:19:09 [info]: ✅ Redis Connected
+2026-02-27 04:19:09 [info]: [MQTT] Connected
+2026-02-27 04:19:10 [info]: ✅ MongoDB Connected
+2026-02-27 04:20:51 [info]: [Socket] Client disconnected
+2026-02-27 04:20:51 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 04:20:54 [error]: [MQTT] Error: read ECONNRESET
+2026-02-27 04:20:55 [info]: [MQTT] Reconnecting...
+2026-02-27 04:21:02 [info]: ✅ Redis Connected
+2026-02-27 04:21:03 [info]: [DB] MongoDB Connected
+2026-02-27 04:21:03 [info]: 🚀 Server running on port 5001 in development mode
+2026-02-27 04:21:03 [info]: [Redis Stream] Consumer consumer:448513392aaf started for group:reports on stream:sensors
+2026-02-27 04:21:03 [info]: [Redis Stream] Consumer consumer:7f6c2b7f3fbf started for group:anomalies on stream:anomalies
+2026-02-27 04:21:03 [info]: [Redis Stream] Consumer consumer:9af5f3423cac started for group:pump on stream:pump
+2026-02-27 04:21:03 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 04:21:23 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:21:23 [error]: [MQTT] Subscription Error: Connection closed
+2026-02-27 04:21:24 [info]: [MQTT] Reconnecting...
+2026-02-27 04:21:26 [info]: ✅ Redis Connected
+2026-02-27 04:21:29 [info]: [DB] MongoDB Connected
+2026-02-27 04:21:29 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 04:21:29 [info]: [Redis Stream] Consumer consumer:699965304da3 started for group:reports on stream:sensors
+2026-02-27 04:21:29 [info]: [Redis Stream] Consumer consumer:8ebc04f5d114 started for group:anomalies on stream:anomalies
+2026-02-27 04:21:29 [info]: [Redis Stream] Consumer consumer:bd1af4b47acc started for group:pump on stream:pump
+2026-02-27 04:21:29 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 04:21:35 [info]: ✅ Redis Connected
+2026-02-27 04:21:38 [info]: [DB] MongoDB Connected
+2026-02-27 04:21:38 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 04:21:38 [info]: [Redis Stream] Consumer consumer:277f5ee402cd started for group:reports on stream:sensors
+2026-02-27 04:21:38 [info]: [Redis Stream] Consumer consumer:551d09045f8c started for group:anomalies on stream:anomalies
+2026-02-27 04:21:38 [info]: [Redis Stream] Consumer consumer:74e2cc0d0441 started for group:pump on stream:pump
+2026-02-27 04:21:38 [info]: [Socket] User user_123 connected and joined room: user_user_123
+2026-02-27 04:21:43 [info]: ✅ Redis Connected
+2026-02-27 04:21:44 [info]: [DB] MongoDB Connected
+2026-02-27 04:21:44 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 04:21:44 [info]: [Redis Stream] Consumer consumer:ed625ba438e9 started for group:reports on stream:sensors
+2026-02-27 04:21:44 [info]: [Redis Stream] Consumer consumer:619b08d2a069 started for group:anomalies on stream:anomalies
+2026-02-27 04:21:44 [info]: [Redis Stream] Consumer consumer:c5dc72924dcb started for group:pump on stream:pump
+2026-02-27 04:21:44 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 04:21:51 [info]: ✅ Redis Connected
+2026-02-27 04:21:54 [info]: [DB] MongoDB Connected
+2026-02-27 04:21:54 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 04:21:54 [info]: [Redis Stream] Consumer consumer:9e1826dc3567 started for group:reports on stream:sensors
+2026-02-27 04:21:54 [info]: [Redis Stream] Consumer consumer:09073d4601d9 started for group:anomalies on stream:anomalies
+2026-02-27 04:21:54 [info]: [Redis Stream] Consumer consumer:c9b00cbd5dba started for group:pump on stream:pump
+2026-02-27 04:21:54 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 04:22:12 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:22:12 [error]: [MQTT] Subscription Error: Connection closed
+2026-02-27 04:22:13 [info]: [MQTT] Reconnecting...
+2026-02-27 04:22:34 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:22:35 [info]: [MQTT] Reconnecting...
+2026-02-27 04:22:56 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:22:57 [info]: [MQTT] Reconnecting...
+2026-02-27 04:23:18 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:23:19 [info]: [MQTT] Reconnecting...
+2026-02-27 04:23:40 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:23:41 [info]: [MQTT] Reconnecting...
+2026-02-27 04:24:02 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:24:03 [info]: [MQTT] Reconnecting...
+2026-02-27 04:24:24 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:24:25 [info]: [MQTT] Reconnecting...
+2026-02-27 04:24:46 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:24:47 [info]: [MQTT] Reconnecting...
+2026-02-27 04:25:08 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:25:09 [info]: [MQTT] Reconnecting...
+2026-02-27 04:25:30 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:25:31 [info]: [MQTT] Reconnecting...
+2026-02-27 04:25:52 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:25:53 [info]: [MQTT] Reconnecting...
+2026-02-27 04:26:14 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:26:15 [info]: [MQTT] Reconnecting...
+2026-02-27 04:26:19 [info]: ✅ Redis Connected
+2026-02-27 04:26:20 [info]: [DB] MongoDB Connected
+2026-02-27 04:26:20 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 04:26:20 [info]: [Redis Stream] Consumer consumer:28a867290699 started for group:reports on stream:sensors
+2026-02-27 04:26:20 [info]: [Redis Stream] Consumer consumer:e34766be18cb started for group:anomalies on stream:anomalies
+2026-02-27 04:26:20 [info]: [Redis Stream] Consumer consumer:aa2be6c38d07 started for group:pump on stream:pump
+2026-02-27 04:26:20 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 04:26:40 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:26:40 [error]: [MQTT] Subscription Error: Connection closed
+2026-02-27 04:26:41 [info]: [MQTT] Reconnecting...
+2026-02-27 04:27:02 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:27:03 [info]: [MQTT] Reconnecting...
+2026-02-27 04:27:24 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:27:25 [info]: [MQTT] Reconnecting...
+2026-02-27 04:27:46 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:27:48 [info]: [MQTT] Reconnecting...
+2026-02-27 04:28:09 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:28:10 [info]: [MQTT] Reconnecting...
+2026-02-27 04:28:31 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:28:32 [info]: [MQTT] Reconnecting...
+2026-02-27 04:28:53 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:28:54 [info]: [MQTT] Reconnecting...
+2026-02-27 04:29:15 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:29:16 [info]: [MQTT] Reconnecting...
+2026-02-27 04:29:37 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:29:38 [info]: [MQTT] Reconnecting...
+2026-02-27 04:29:59 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:30:00 [info]: [MQTT] Reconnecting...
+2026-02-27 04:30:21 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:30:22 [info]: [MQTT] Reconnecting...
+2026-02-27 04:30:43 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:30:44 [info]: [MQTT] Reconnecting...
+2026-02-27 04:31:05 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:31:06 [info]: [MQTT] Reconnecting...
+2026-02-27 04:31:27 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:31:28 [info]: [MQTT] Reconnecting...
+2026-02-27 04:31:49 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:31:50 [info]: [MQTT] Reconnecting...
+2026-02-27 04:32:11 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:32:12 [info]: [MQTT] Reconnecting...
+2026-02-27 04:32:33 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:32:34 [info]: [MQTT] Reconnecting...
+2026-02-27 04:32:55 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:32:56 [info]: [MQTT] Reconnecting...
+2026-02-27 04:33:17 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:33:18 [info]: [MQTT] Reconnecting...
+2026-02-27 04:33:39 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:33:40 [info]: [MQTT] Reconnecting...
+2026-02-27 04:34:01 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:34:02 [info]: [MQTT] Reconnecting...
+2026-02-27 04:34:23 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:34:24 [info]: [MQTT] Reconnecting...
+2026-02-27 04:34:45 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:34:47 [info]: [MQTT] Reconnecting...
+2026-02-27 04:35:08 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:35:09 [info]: [MQTT] Reconnecting...
+2026-02-27 04:35:30 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:35:31 [info]: [MQTT] Reconnecting...
+2026-02-27 04:35:52 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:35:53 [info]: [MQTT] Reconnecting...
+2026-02-27 04:36:14 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:36:15 [info]: [MQTT] Reconnecting...
+2026-02-27 04:36:36 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:36:37 [info]: [MQTT] Reconnecting...
+2026-02-27 04:36:58 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:36:59 [info]: [MQTT] Reconnecting...
+2026-02-27 04:36:59 [info]: [MQTT] Connected
+2026-02-27 04:38:18 [error]: [MQTT] Error: read ECONNRESET
+2026-02-27 04:38:19 [info]: [MQTT] Reconnecting...
+2026-02-27 04:38:40 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:38:41 [info]: [MQTT] Reconnecting...
+2026-02-27 04:39:02 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:39:03 [info]: [MQTT] Reconnecting...
+2026-02-27 04:39:24 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:39:25 [info]: [MQTT] Reconnecting...
+2026-02-27 04:39:46 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:39:47 [info]: [MQTT] Reconnecting...
+2026-02-27 04:40:08 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:40:09 [info]: [MQTT] Reconnecting...
+2026-02-27 04:40:30 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:40:31 [info]: [MQTT] Reconnecting...
+2026-02-27 04:40:52 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:40:53 [info]: [MQTT] Reconnecting...
+2026-02-27 04:41:14 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:41:15 [info]: [MQTT] Reconnecting...
+2026-02-27 04:41:37 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:41:38 [info]: [MQTT] Reconnecting...
+2026-02-27 04:41:59 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:42:00 [info]: [MQTT] Reconnecting...
+2026-02-27 04:42:21 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:42:22 [info]: [MQTT] Reconnecting...
+2026-02-27 04:42:43 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:42:44 [info]: [MQTT] Reconnecting...
+2026-02-27 04:43:05 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:43:06 [info]: [MQTT] Reconnecting...
+2026-02-27 04:43:27 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:43:28 [info]: [MQTT] Reconnecting...
+2026-02-27 04:43:49 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:43:50 [info]: [MQTT] Reconnecting...
+2026-02-27 04:44:11 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:44:12 [info]: [MQTT] Reconnecting...
+2026-02-27 04:44:33 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:44:34 [info]: [MQTT] Reconnecting...
+2026-02-27 04:44:55 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:44:56 [info]: [MQTT] Reconnecting...
+2026-02-27 04:45:17 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:45:18 [info]: [MQTT] Reconnecting...
+2026-02-27 04:45:39 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:45:40 [info]: [MQTT] Reconnecting...
+2026-02-27 04:46:01 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 04:46:02 [info]: [MQTT] Reconnecting...
+2026-02-27 04:46:03 [info]: [Socket] Client disconnected
+2026-02-27 05:01:02 [error]: [MQTT] Error: connect ECONNABORTED 192.168.137.249:1883
+2026-02-27 05:01:03 [info]: [MQTT] Reconnecting...
+2026-02-27 05:01:03 [info]: 🔄 MQTT Reconnecting...
+2026-02-27 05:01:03 [info]: ✅ MQTT Connected
+2026-02-27 05:01:04 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:01:04 [info]: [Socket] Client disconnected
+2026-02-27 05:02:28 [error]: [MQTT] Error: connack timeout
+2026-02-27 05:02:29 [info]: [MQTT] Reconnecting...
+2026-02-27 05:02:32 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:02:35 [info]: 🔄 MQTT Reconnecting...
+2026-02-27 05:02:35 [info]: ✅ MQTT Connected
+2026-02-27 05:02:50 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:02:51 [info]: [MQTT] Reconnecting...
+2026-02-27 05:03:12 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:03:13 [info]: [MQTT] Reconnecting...
+2026-02-27 05:03:34 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:03:35 [info]: [MQTT] Reconnecting...
+2026-02-27 05:03:56 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:03:57 [info]: [MQTT] Reconnecting...
+2026-02-27 05:04:18 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:04:19 [info]: [MQTT] Reconnecting...
+2026-02-27 05:04:33 [info]: [Socket] Client disconnected
+2026-02-27 05:04:41 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:05:58 [info]: [MQTT] Reconnecting...
+2026-02-27 05:05:58 [error]: [MQTT] Error: connect ENETUNREACH 192.168.137.249:1883
+2026-02-27 05:05:59 [info]: [MQTT] Reconnecting...
+2026-02-27 05:06:00 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:06:07 [info]: 🔄 MQTT Reconnecting...
+2026-02-27 05:06:07 [info]: ✅ MQTT Connected
+2026-02-27 05:06:20 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:06:21 [info]: [MQTT] Reconnecting...
+2026-02-27 05:06:42 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:06:43 [info]: [MQTT] Reconnecting...
+2026-02-27 05:07:04 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:07:05 [info]: [MQTT] Reconnecting...
+2026-02-27 05:07:26 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:07:27 [info]: [MQTT] Reconnecting...
+2026-02-27 05:07:48 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:07:49 [info]: [MQTT] Reconnecting...
+2026-02-27 05:08:10 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:08:11 [info]: [MQTT] Reconnecting...
+2026-02-27 05:08:20 [info]: [Socket] Client disconnected
+2026-02-27 05:09:45 [error]: [MQTT] Error: connack timeout
+2026-02-27 05:09:45 [error]: ❌ MQTT Error: read ECONNRESET
+2026-02-27 05:09:46 [info]: 🔄 MQTT Reconnecting...
+2026-02-27 05:09:46 [info]: [MQTT] Reconnecting...
+2026-02-27 05:09:46 [error]: [MQTT] Error: connect EHOSTUNREACH 192.168.137.249:1883
+2026-02-27 05:09:46 [info]: ✅ MQTT Connected
+2026-02-27 05:09:47 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:09:47 [info]: [MQTT] Reconnecting...
+2026-02-27 05:10:08 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:10:09 [info]: [MQTT] Reconnecting...
+2026-02-27 05:10:30 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:10:31 [info]: [MQTT] Reconnecting...
+2026-02-27 05:10:52 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:10:53 [info]: [MQTT] Reconnecting...
+2026-02-27 05:11:14 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:11:15 [info]: [MQTT] Reconnecting...
+2026-02-27 05:11:36 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:11:37 [info]: [MQTT] Reconnecting...
+2026-02-27 05:11:58 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:11:59 [info]: [MQTT] Reconnecting...
+2026-02-27 05:12:07 [info]: [Socket] Client disconnected
+2026-02-27 05:13:33 [error]: [MQTT] Error: connack timeout
+2026-02-27 05:13:34 [info]: 🔄 MQTT Reconnecting...
+2026-02-27 05:13:34 [info]: ✅ MQTT Connected
+2026-02-27 05:13:34 [info]: [MQTT] Reconnecting...
+2026-02-27 05:13:35 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:13:55 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:13:56 [info]: [MQTT] Reconnecting...
+2026-02-27 05:14:17 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:14:18 [info]: [MQTT] Reconnecting...
+2026-02-27 05:14:39 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:14:40 [info]: [MQTT] Reconnecting...
+2026-02-27 05:15:01 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:15:02 [info]: [MQTT] Reconnecting...
+2026-02-27 05:15:23 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:15:24 [info]: [MQTT] Reconnecting...
+2026-02-27 05:15:45 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:15:46 [info]: [MQTT] Reconnecting...
+2026-02-27 05:15:55 [info]: [Socket] Client disconnected
+2026-02-27 05:17:20 [error]: [MQTT] Error: connack timeout
+2026-02-27 05:17:21 [info]: [MQTT] Reconnecting...
+2026-02-27 05:17:21 [error]: [MQTT] Error: connect EHOSTUNREACH 192.168.137.249:1883
+2026-02-27 05:17:22 [info]: [MQTT] Reconnecting...
+2026-02-27 05:17:22 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:17:43 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:17:44 [info]: [MQTT] Reconnecting...
+2026-02-27 05:18:05 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:18:06 [info]: [MQTT] Reconnecting...
+2026-02-27 05:18:27 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:18:28 [info]: [MQTT] Reconnecting...
+2026-02-27 05:18:49 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:18:50 [info]: [MQTT] Reconnecting...
+2026-02-27 05:19:11 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:19:12 [info]: [MQTT] Reconnecting...
+2026-02-27 05:19:33 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:19:34 [info]: [MQTT] Reconnecting...
+2026-02-27 05:19:42 [info]: [Socket] Client disconnected
+2026-02-27 05:21:07 [error]: [MQTT] Error: connack timeout
+2026-02-27 05:21:07 [error]: ❌ MQTT Error: read ECONNRESET
+2026-02-27 05:21:08 [info]: 🔄 MQTT Reconnecting...
+2026-02-27 05:21:08 [info]: ✅ MQTT Connected
+2026-02-27 05:21:08 [info]: [MQTT] Reconnecting...
+2026-02-27 05:21:09 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:21:29 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:21:30 [info]: [MQTT] Reconnecting...
+2026-02-27 05:21:51 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:21:52 [info]: [MQTT] Reconnecting...
+2026-02-27 05:22:13 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:22:14 [info]: [MQTT] Reconnecting...
+2026-02-27 05:22:35 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:22:36 [info]: [MQTT] Reconnecting...
+2026-02-27 05:22:57 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:22:58 [info]: [MQTT] Reconnecting...
+2026-02-27 05:23:20 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:23:21 [info]: [MQTT] Reconnecting...
+2026-02-27 05:23:29 [info]: [Socket] Client disconnected
+2026-02-27 05:24:55 [error]: [MQTT] Error: connack timeout
+2026-02-27 05:24:55 [error]: ❌ MQTT Error: read ECONNRESET
+2026-02-27 05:24:56 [info]: [MQTT] Reconnecting...
+2026-02-27 05:24:56 [error]: [MQTT] Error: connect EHOSTUNREACH 192.168.137.249:1883
+2026-02-27 05:24:56 [info]: 🔄 MQTT Reconnecting...
+2026-02-27 05:24:56 [info]: ✅ MQTT Connected
+2026-02-27 05:24:57 [info]: [MQTT] Reconnecting...
+2026-02-27 05:24:57 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:25:18 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:25:19 [info]: [MQTT] Reconnecting...
+2026-02-27 05:25:40 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:25:41 [info]: [MQTT] Reconnecting...
+2026-02-27 05:26:02 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:26:03 [info]: [MQTT] Reconnecting...
+2026-02-27 05:26:24 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:26:25 [info]: [MQTT] Reconnecting...
+2026-02-27 05:26:46 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:26:47 [info]: [MQTT] Reconnecting...
+2026-02-27 05:27:08 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:27:09 [info]: [MQTT] Reconnecting...
+2026-02-27 05:27:17 [info]: [Socket] Client disconnected
+2026-02-27 05:28:42 [error]: [MQTT] Error: connack timeout
+2026-02-27 05:28:43 [info]: 🔄 MQTT Reconnecting...
+2026-02-27 05:28:43 [info]: ✅ MQTT Connected
+2026-02-27 05:28:43 [info]: [MQTT] Reconnecting...
+2026-02-27 05:28:43 [error]: [MQTT] Error: connect EHOSTUNREACH 192.168.137.249:1883
+2026-02-27 05:28:44 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:28:44 [info]: [MQTT] Reconnecting...
+2026-02-27 05:29:05 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:29:06 [info]: [MQTT] Reconnecting...
+2026-02-27 05:29:27 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:29:28 [info]: [MQTT] Reconnecting...
+2026-02-27 05:29:49 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:29:50 [info]: [MQTT] Reconnecting...
+2026-02-27 05:30:11 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:30:12 [info]: [MQTT] Reconnecting...
+2026-02-27 05:30:33 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:30:34 [info]: [MQTT] Reconnecting...
+2026-02-27 05:30:55 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:30:56 [info]: [MQTT] Reconnecting...
+2026-02-27 05:31:03 [info]: [Socket] Client disconnected
+2026-02-27 05:32:29 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:32:30 [info]: [MQTT] Reconnecting...
+2026-02-27 05:32:30 [error]: [MQTT] Error: connect EHOSTUNREACH 192.168.137.249:1883
+2026-02-27 05:32:30 [info]: 🔄 MQTT Reconnecting...
+2026-02-27 05:32:30 [info]: ✅ MQTT Connected
+2026-02-27 05:32:31 [info]: [MQTT] Reconnecting...
+2026-02-27 05:32:31 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:32:52 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:32:53 [info]: [MQTT] Reconnecting...
+2026-02-27 05:33:14 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:33:15 [info]: [MQTT] Reconnecting...
+2026-02-27 05:33:36 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:33:37 [info]: [MQTT] Reconnecting...
+2026-02-27 05:33:58 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:33:59 [info]: [MQTT] Reconnecting...
+2026-02-27 05:34:20 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:34:21 [info]: [MQTT] Reconnecting...
+2026-02-27 05:34:42 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:34:43 [info]: [MQTT] Reconnecting...
+2026-02-27 05:34:51 [info]: [Socket] Client disconnected
+2026-02-27 05:36:17 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:36:18 [info]: 🔄 MQTT Reconnecting...
+2026-02-27 05:36:18 [info]: ✅ MQTT Connected
+2026-02-27 05:36:18 [info]: [MQTT] Reconnecting...
+2026-02-27 05:36:18 [error]: [MQTT] Error: connect EHOSTUNREACH 192.168.137.249:1883
+2026-02-27 05:36:19 [info]: [MQTT] Reconnecting...
+2026-02-27 05:36:20 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:36:40 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:36:41 [info]: [MQTT] Reconnecting...
+2026-02-27 05:37:02 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:37:03 [info]: [MQTT] Reconnecting...
+2026-02-27 05:37:24 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:37:25 [info]: [MQTT] Reconnecting...
+2026-02-27 05:37:46 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:37:47 [info]: [MQTT] Reconnecting...
+2026-02-27 05:38:08 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:38:09 [info]: [MQTT] Reconnecting...
+2026-02-27 05:38:15 [error]: [MQTT] Error: connect ECONNABORTED 192.168.137.249:1883
+2026-02-27 05:38:16 [info]: [MQTT] Reconnecting...
+2026-02-27 05:38:37 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:38:38 [info]: [MQTT] Reconnecting...
+2026-02-27 05:38:59 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:39:00 [info]: [MQTT] Reconnecting...
+2026-02-27 05:39:11 [info]: ✅ Redis Connected
+2026-02-27 05:39:14 [info]: [DB] MongoDB Connected
+2026-02-27 05:39:14 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:39:14 [info]: [Redis Stream] Consumer consumer:59e5999404e6 started for group:reports on stream:sensors
+2026-02-27 05:39:14 [info]: [Redis Stream] Consumer consumer:d4a382deb937 started for group:anomalies on stream:anomalies
+2026-02-27 05:39:14 [info]: [Redis Stream] Consumer consumer:c3fa109d7a9f started for group:pump on stream:pump
+2026-02-27 05:39:16 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:39:32 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:39:32 [error]: [MQTT] Subscription Error: Connection closed
+2026-02-27 05:39:33 [info]: [MQTT] Reconnecting...
+2026-02-27 05:39:54 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:39:55 [info]: [MQTT] Reconnecting...
+2026-02-27 05:40:16 [error]: [MQTT] Error: connect ETIMEDOUT 192.168.137.249:1883
+2026-02-27 05:40:17 [info]: [MQTT] Reconnecting...
+2026-02-27 05:40:20 [info]: ✅ Redis Connected
+2026-02-27 05:40:21 [info]: [DB] MongoDB Connected
+2026-02-27 05:40:21 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:40:21 [info]: [Redis Stream] Consumer consumer:21b84905b78c started for group:reports on stream:sensors
+2026-02-27 05:40:21 [info]: [Redis Stream] Consumer consumer:023f811f77c3 started for group:anomalies on stream:anomalies
+2026-02-27 05:40:21 [info]: [Redis Stream] Consumer consumer:d66eabebdae2 started for group:pump on stream:pump
+2026-02-27 05:40:21 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:40:41 [error]: [MQTT] Error: connect ETIMEDOUT 10.52.12.101:1883
+2026-02-27 05:40:41 [error]: [MQTT] Subscription Error: Connection closed
+2026-02-27 05:40:42 [info]: [MQTT] Reconnecting...
+2026-02-27 05:41:03 [error]: [MQTT] Error: connect ETIMEDOUT 10.52.12.101:1883
+2026-02-27 05:41:04 [info]: [MQTT] Reconnecting...
+2026-02-27 05:41:15 [info]: ✅ Redis Connected
+2026-02-27 05:41:15 [info]: [MQTT] Connected
+2026-02-27 05:41:17 [info]: [DB] MongoDB Connected
+2026-02-27 05:41:17 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:41:17 [info]: [Redis Stream] Consumer consumer:8733f3d40be9 started for group:reports on stream:sensors
+2026-02-27 05:41:17 [info]: [Redis Stream] Consumer consumer:a5fadb2670d9 started for group:anomalies on stream:anomalies
+2026-02-27 05:41:17 [info]: [Redis Stream] Consumer consumer:2a1d5411a9d9 started for group:pump on stream:pump
+2026-02-27 05:41:17 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:41:17 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:43:01 [info]: [Socket] Client disconnected
+2026-02-27 05:43:02 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:43:17 [info]: [Sowing Service] Publishing sowing date
+2026-02-27 05:45:34 [info]: ✅ Redis Connected
+2026-02-27 05:45:34 [info]: [MQTT] Connected
+2026-02-27 05:45:36 [info]: [DB] MongoDB Connected
+2026-02-27 05:45:36 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:45:36 [info]: [Redis Stream] Consumer consumer:b04959b531ab started for group:reports on stream:sensors
+2026-02-27 05:45:36 [info]: [Redis Stream] Consumer consumer:e2fa8fa434a1 started for group:anomalies on stream:anomalies
+2026-02-27 05:45:36 [info]: [Redis Stream] Consumer consumer:d893c5144571 started for group:pump on stream:pump
+2026-02-27 05:45:36 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:45:36 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:45:39 [info]: ✅ Redis Connected
+2026-02-27 05:45:39 [info]: [MQTT] Connected
+2026-02-27 05:45:40 [info]: [DB] MongoDB Connected
+2026-02-27 05:45:40 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:45:41 [info]: [Redis Stream] Consumer consumer:6167b360201a started for group:reports on stream:sensors
+2026-02-27 05:45:41 [info]: [Redis Stream] Consumer consumer:d14603c1698b started for group:anomalies on stream:anomalies
+2026-02-27 05:45:41 [info]: [Redis Stream] Consumer consumer:f657008ce4d2 started for group:pump on stream:pump
+2026-02-27 05:45:41 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:45:41 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:47:19 [info]: ✅ Redis Connected
+2026-02-27 05:47:19 [info]: [MQTT] Connected
+2026-02-27 05:47:19 [info]: [DB] MongoDB Connected
+2026-02-27 05:47:19 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:47:19 [info]: [Redis Stream] Consumer consumer:76e2c3e26df6 started for group:reports on stream:sensors
+2026-02-27 05:47:19 [info]: [Redis Stream] Consumer consumer:92e8ec36fd17 started for group:anomalies on stream:anomalies
+2026-02-27 05:47:19 [info]: [Redis Stream] Consumer consumer:f8530c38bca1 started for group:pump on stream:pump
+2026-02-27 05:47:19 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:47:20 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:48:24 [info]: ✅ Redis Connected
+2026-02-27 05:48:24 [info]: [MQTT] Connected
+2026-02-27 05:48:25 [info]: [DB] MongoDB Connected
+2026-02-27 05:48:25 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:48:25 [info]: [Redis Stream] Consumer consumer:7fea6a59a9ed started for group:reports on stream:sensors
+2026-02-27 05:48:25 [info]: [Redis Stream] Consumer consumer:f810cba1bdf8 started for group:anomalies on stream:anomalies
+2026-02-27 05:48:25 [info]: [Redis Stream] Consumer consumer:9cfd9e3601fb started for group:pump on stream:pump
+2026-02-27 05:48:25 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:48:25 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:51:01 [info]: ✅ Redis Connected
+2026-02-27 05:51:01 [info]: [MQTT] Connected
+2026-02-27 05:51:02 [info]: [DB] MongoDB Connected
+2026-02-27 05:51:02 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:51:02 [info]: [Redis Stream] Consumer consumer:bf7ddeb7b94 started for group:reports on stream:sensors
+2026-02-27 05:51:02 [info]: [Redis Stream] Consumer consumer:8440cc7f8af7 started for group:anomalies on stream:anomalies
+2026-02-27 05:51:02 [info]: [Redis Stream] Consumer consumer:819071755cff started for group:pump on stream:pump
+2026-02-27 05:51:02 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:51:02 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:51:08 [info]: ✅ Redis Connected
+2026-02-27 05:51:08 [info]: [MQTT] Connected
+2026-02-27 05:51:09 [info]: [DB] MongoDB Connected
+2026-02-27 05:51:09 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:51:09 [info]: [Redis Stream] Consumer consumer:dcf0c0f0f919 started for group:reports on stream:sensors
+2026-02-27 05:51:09 [info]: [Redis Stream] Consumer consumer:119c1855c4f9 started for group:anomalies on stream:anomalies
+2026-02-27 05:51:09 [info]: [Redis Stream] Consumer consumer:ead5484f7dec started for group:pump on stream:pump
+2026-02-27 05:51:09 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:51:09 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:51:13 [info]: ✅ Redis Connected
+2026-02-27 05:51:13 [info]: [MQTT] Connected
+2026-02-27 05:51:14 [info]: [DB] MongoDB Connected
+2026-02-27 05:51:14 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:51:14 [info]: [Redis Stream] Consumer consumer:3778882e3652 started for group:reports on stream:sensors
+2026-02-27 05:51:14 [info]: [Redis Stream] Consumer consumer:411ef802b6a2 started for group:anomalies on stream:anomalies
+2026-02-27 05:51:14 [info]: [Redis Stream] Consumer consumer:b7ce0d835b88 started for group:pump on stream:pump
+2026-02-27 05:51:14 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:51:14 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:51:28 [info]: ✅ Redis Connected
+2026-02-27 05:51:28 [info]: [MQTT] Connected
+2026-02-27 05:51:29 [info]: [DB] MongoDB Connected
+2026-02-27 05:51:29 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:51:29 [info]: [Redis Stream] Consumer consumer:822f9e412d77 started for group:reports on stream:sensors
+2026-02-27 05:51:29 [info]: [Redis Stream] Consumer consumer:3f6c999f5619 started for group:anomalies on stream:anomalies
+2026-02-27 05:51:29 [info]: [Redis Stream] Consumer consumer:823e527ef511 started for group:pump on stream:pump
+2026-02-27 05:51:29 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:51:29 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:52:13 [info]: ✅ Redis Connected
+2026-02-27 05:52:13 [info]: [MQTT] Connected
+2026-02-27 05:52:14 [info]: [DB] MongoDB Connected
+2026-02-27 05:52:14 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:52:14 [info]: [Redis Stream] Consumer consumer:d584a93d7112 started for group:reports on stream:sensors
+2026-02-27 05:52:14 [info]: [Redis Stream] Consumer consumer:23634c7df269 started for group:anomalies on stream:anomalies
+2026-02-27 05:52:14 [info]: [Redis Stream] Consumer consumer:a142f4af44d4 started for group:pump on stream:pump
+2026-02-27 05:52:14 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:52:14 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:53:02 [info]: ✅ Redis Connected
+2026-02-27 05:53:02 [info]: [MQTT] Connected
+2026-02-27 05:53:03 [info]: [DB] MongoDB Connected
+2026-02-27 05:53:03 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:53:03 [info]: [Redis Stream] Consumer consumer:b041fcd06ecc started for group:reports on stream:sensors
+2026-02-27 05:53:03 [info]: [Redis Stream] Consumer consumer:5c522866996a started for group:anomalies on stream:anomalies
+2026-02-27 05:53:03 [info]: [Redis Stream] Consumer consumer:b5a71cb36b78 started for group:pump on stream:pump
+2026-02-27 05:53:03 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:53:03 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:53:06 [info]: ✅ Redis Connected
+2026-02-27 05:53:06 [info]: [MQTT] Connected
+2026-02-27 05:53:07 [info]: [DB] MongoDB Connected
+2026-02-27 05:53:07 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:53:07 [info]: [Redis Stream] Consumer consumer:183c550584a started for group:reports on stream:sensors
+2026-02-27 05:53:07 [info]: [Redis Stream] Consumer consumer:0e282832f14b started for group:anomalies on stream:anomalies
+2026-02-27 05:53:07 [info]: [Redis Stream] Consumer consumer:2b67d87ae45e started for group:pump on stream:pump
+2026-02-27 05:53:07 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:53:07 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:53:12 [info]: ✅ Redis Connected
+2026-02-27 05:53:12 [info]: [MQTT] Connected
+2026-02-27 05:53:13 [info]: [DB] MongoDB Connected
+2026-02-27 05:53:13 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:53:13 [info]: [Redis Stream] Consumer consumer:40ba005c189c started for group:reports on stream:sensors
+2026-02-27 05:53:13 [info]: [Redis Stream] Consumer consumer:5d3c99ee9c3a started for group:anomalies on stream:anomalies
+2026-02-27 05:53:13 [info]: [Redis Stream] Consumer consumer:138f0e1c1832 started for group:pump on stream:pump
+2026-02-27 05:53:13 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:53:13 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:53:26 [info]: ✅ Redis Connected
+2026-02-27 05:53:26 [info]: [MQTT] Connected
+2026-02-27 05:53:27 [info]: [DB] MongoDB Connected
+2026-02-27 05:53:27 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:53:27 [info]: [Redis Stream] Consumer consumer:55d7abb35611 started for group:reports on stream:sensors
+2026-02-27 05:53:27 [info]: [Redis Stream] Consumer consumer:d3d2c2762419 started for group:anomalies on stream:anomalies
+2026-02-27 05:53:27 [info]: [Redis Stream] Consumer consumer:759bbbe73b21 started for group:pump on stream:pump
+2026-02-27 05:53:27 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:53:27 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:54:21 [info]: [Sowing Service] Publishing sowing date to topic=feild/sowing_date
+2026-02-27 05:54:21 [info]: [MQTT] Published to feild/sowing_date
+2026-02-27 05:54:34 [info]: [Sowing Service] Publishing sowing date to topic=feild/sowing_date
+2026-02-27 05:54:34 [info]: [MQTT] Published to feild/sowing_date
+2026-02-27 05:54:45 [info]: ✅ Redis Connected
+2026-02-27 05:54:45 [info]: [MQTT] Connected
+2026-02-27 05:54:46 [info]: [DB] MongoDB Connected
+2026-02-27 05:54:46 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:54:46 [info]: [Redis Stream] Consumer consumer:367d504243fd started for group:reports on stream:sensors
+2026-02-27 05:54:46 [info]: [Redis Stream] Consumer consumer:ddf99f2cd869 started for group:anomalies on stream:anomalies
+2026-02-27 05:54:46 [info]: [Redis Stream] Consumer consumer:1617c7fb29ff started for group:pump on stream:pump
+2026-02-27 05:54:46 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:54:46 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:54:50 [info]: ✅ Redis Connected
+2026-02-27 05:54:50 [info]: [MQTT] Connected
+2026-02-27 05:54:51 [info]: [DB] MongoDB Connected
+2026-02-27 05:54:51 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:54:51 [info]: [Redis Stream] Consumer consumer:40c09ac2374c started for group:reports on stream:sensors
+2026-02-27 05:54:51 [info]: [Redis Stream] Consumer consumer:c89299f91d3b started for group:anomalies on stream:anomalies
+2026-02-27 05:54:51 [info]: [Redis Stream] Consumer consumer:e38e04d7b48 started for group:pump on stream:pump
+2026-02-27 05:54:51 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:54:51 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:54:56 [info]: [Sowing Service] Publishing sowing date to topic=feild/sowing_date
+2026-02-27 05:54:56 [info]: [MQTT][SOWING][OUT] topic=feild/sowing_date payload={"cropType":"Moong","sowingDate":"2026-02-21","timestamp":"2026-02-27T00:24:56.124Z"}
+2026-02-27 05:54:56 [info]: [MQTT] Published to feild/sowing_date
+2026-02-27 05:54:56 [info]: [MQTT][SOWING][ACK] topic=feild/sowing_date sowingDate=2026-02-21 cropType=Moong
+2026-02-27 05:55:40 [info]: ✅ Redis Connected
+2026-02-27 05:55:40 [info]: [MQTT] Connected
+2026-02-27 05:55:41 [info]: [DB] MongoDB Connected
+2026-02-27 05:55:41 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:55:41 [info]: [Redis Stream] Consumer consumer:2241cc1686aa started for group:reports on stream:sensors
+2026-02-27 05:55:41 [info]: [Redis Stream] Consumer consumer:8dea08ea72fc started for group:anomalies on stream:anomalies
+2026-02-27 05:55:41 [info]: [Redis Stream] Consumer consumer:65d21b94ff1 started for group:pump on stream:pump
+2026-02-27 05:55:41 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:55:41 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:55:46 [info]: [Socket] Client disconnected
+2026-02-27 05:55:47 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:56:04 [info]: [Sowing Service] Publishing sowing date to topic=feild/sowing_date
+2026-02-27 05:56:04 [info]: [MQTT][SOWING][OUT] topic=feild/sowing_date payload={"cropType":"Wheat","sowingDate":"2026-02-26","timestamp":"2026-02-27T00:26:04.823Z"}
+2026-02-27 05:56:05 [info]: [MQTT] Published to feild/sowing_date
+2026-02-27 05:56:05 [info]: [MQTT][SOWING][ACK] topic=feild/sowing_date sowingDate=2026-02-26 cropType=Wheat
+2026-02-27 05:59:30 [info]: ✅ Redis Connected
+2026-02-27 05:59:30 [info]: [MQTT] Connected
+2026-02-27 05:59:31 [info]: [DB] MongoDB Connected
+2026-02-27 05:59:31 [info]: [Startup] Server running on port 5001 in development mode
+2026-02-27 05:59:31 [info]: [Redis Stream] Consumer consumer:2f4ce9d2a26f started for group:reports on stream:sensors
+2026-02-27 05:59:31 [info]: [Redis Stream] Consumer consumer:d2c5d26d149d started for group:anomalies on stream:anomalies
+2026-02-27 05:59:31 [info]: [Redis Stream] Consumer consumer:adcab4a08de started for group:pump on stream:pump
+2026-02-27 05:59:31 [info]: [MQTT] Subscribed to: feild/live_dashboard, farm/anomaly, farm/pump/status
+2026-02-27 05:59:31 [info]: [Socket] User 123 connected and joined room: user_123
+2026-02-27 05:59:35 [info]: [Sowing Service] Publishing sowing date to topic=feild/sowing_date
+2026-02-27 05:59:35 [info]: [MQTT][SOWING][OUT] topic=feild/sowing_date payload={"sowing_date":"2026-02-25"}
+2026-02-27 05:59:36 [info]: [MQTT] Published to feild/sowing_date
+2026-02-27 05:59:36 [info]: [MQTT][SOWING][ACK] topic=feild/sowing_date payload={"sowing_date":"2026-02-25"}
